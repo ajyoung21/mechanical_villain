@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head> 
+  <meta charset="UTF-8">
+  <title>Villain_Island_Villas!</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<style>
+  body {
+    background-color: rgb(54, 8, 8);
+  }
+
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  #about-us {
+    background-color: lightsteelblue;
+  }
+
+  img.center {
+    display: block;
+    margin: 0 auto;
+  }
+
+
+</style>
+
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta http-equiv="X-UA-Compatible" content="ie=edge">
+ <title>Leaflet Step-1</title>
+ <!-- Leaflet CSS -->
+ <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="/"><h2>Villain Island Villas!</h2></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="/""><h3>Home Page</h3><span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="data_table"><h3>Data Table</h3><span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="#"><h3>About Us</h3><span class="sr-only">(current)</span></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container" id="about-us">
+    <div class="row">
+      <div class="col-md-6">
+        <h2 class="text-center">Stewart Knight</h2>
+        <img src="https://media.licdn.com/dms/image/C4D03AQERxcgcr3PiiQ/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=_WWfs6ikUC0cKLKbM_1w8qeLttBP-t_6HgI4cD7Zz4E" class="center" height="175" width="190">
+        <br>
+        <h4 class="text-center">Mr. Knight is the Receiving Manager at Great Outdoor Provision Co., from Mississippi by way of Miami, Montana, Asheville, and Washington DC, and serves here as Master of Ceremonies. Is also a Data Analyst.</h4>
+        <h5 class="text-center"><a href=https://www.linkedin.com/in/stewart-knight-368852a3/>Click here to go to Stewart's LinkedIn profile</a></h5>
+      </div>
+      <div class="col-md-6">
+        <h2 class="text-center">Taylor Middlebrooks</h2>
+        <img src="https://media.licdn.com/dms/image/C4D03AQHCBuvad7IgLg/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=7yncle_WXmXHGa57ywnq5M3Bzps03b65x6vje4B-vVk" class="center" height="175" width="170">
+        <br>
+        <h4 class="text-center">Mr. Middlebrooks is a stone cold closer and evil mastermind. Will crush your code and steal your girl. Enjoys spending time with his minion cats. Is also a Data Analyst.</h4>
+        <h5 class="text-center"><a href=https://www.linkedin.com/in/taylormiddlebrooks/>Click here to go to Taylor's LinkedIn profile</a></h5>
+      </div>
+    </div>
+    <br>
+    <!-- LinkedIn pages need to open in a new page. GJM-->
+    </br>
+    <div class="row">
+      <div class="col-md-4">
+        <h2 class="text-center">Maria Romero</h2>
+        <img src="https://scontent-iad3-1.xx.fbcdn.net/v/t31.0-8/10348850_10152425168469534_301458569479355623_o.jpg?_nc_cat=101&_nc_ohc=Z_eDEvo39jUAQnOfl1ZLPMEYnbb9aPZakbN9tQHfThZ2-RqjxzeHtV6fg&_nc_ht=scontent-iad3-1.xx&oh=dc34a9dce71f6d2fa9a8b867c6ce4408&oe=5E8EA0F0" class="center" height="210" width="215">
+        <br>
+        <h4 class="text-center">Mrs. Romero is heinously villainous Purchasing Agent with the UNC Health Care Company. Is also a Data Analyst.</h4>
+        <h5 class="text-center"><a href=https://www.linkedin.com/in/maria-luz-romero>Click here to go to Maria's LinkedIn profile</a></h5>
+
+      </div>
+      <div class="col-md-4">
+        <h2 class="text-center">Alex Young</h2>
+        <img src="https://media.licdn.com/dms/image/C4E03AQEhPRQTdf36rA/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=szBIftI5QAy0UDiAixft8ZGkDqJcfB0NVg-a60DPnos" class="center" height="210" width="215">
+        <br>
+        <h4 class="text-center">Alex majored in Economics at Rice University. Before joining UNC's data analytics bootcamp, he worked as a high school social studies teacher. Is also a Data Analyst</h4>
+        <h5 class="text-center"><a href=https://www.linkedin.com/in/alexyoung21>Click here to go to Alex's LinkedIn profile</a></h5>
+
+      </div>
+      <div class="col-md-4">
+        <h2 class="text-center">George McGuire</h2>
+        <img src="https://media.licdn.com/dms/image/C4E03AQHVpfZyf1fz8w/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=g6Giv_o4ytuTKeHoMEafW51NgnpUKnQTuPfXRizESdI" class="center" height="210" width="215">
+        <br>
+        <h4 class="text-center">George McGuire is an East Carolina University graduate in Applied Economics. Is also a data analyst</h4>
+        <h5 class="text-center"><a href=https://www.linkedin.com/in/george-mcguire-5345a2183>Click here to go to George's LinkedIn profile</a></h5>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+
+</html>
