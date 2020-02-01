@@ -7,6 +7,16 @@ from selenium import webdriver
 import time
 import pandas as pd
 
+# Initiate Browser instance
+#executable_path = {"executable_path":"chromedriver.exe"}
+#browser = Browser("chrome", **executable_path, headless=False)
+
+# Visit the URL
+#url = "https://www.privateislandsonline.com/search?availability=sale"
+#browser.visit(url)
+
+
+
 def scrape(browser):
     # Set up SOUP object
     html = browser.html
@@ -20,7 +30,7 @@ def scrape(browser):
     lats = []
     lngs = []
     all_spans = []
-
+    prices = []
     attributes_dict = {}
 
     # Get the link to island
@@ -88,8 +98,8 @@ def scrape(browser):
             attributes_dict[name] = ["NA"]
         else:
             attributes_dict[name] = current_spans
-            
-    # Here we go island by island to get the latitude and longitude
+
+    # Here we go island by island to get the latitude and longitude and price
     for link in links:
         # Visit the link
         browser.visit(link)
@@ -113,6 +123,9 @@ def scrape(browser):
             except Exception:
                 pass
     
+        price = soup.find(attrs={'class': 'price'}).text.strip()
+        price = price.replace(',', '')
+        prices.append(price)
     # Now I want to get a list of all unique attributes and then compare each island to that list to see if they have the attribute
     all_unique_attributes = list(dict.fromkeys(all_spans))
 
@@ -122,7 +135,8 @@ def scrape(browser):
         "Acreage": acres,
         "Country": countrys,
         "latitude": lats,
-        "longitude": lngs}
+        "longitude": lngs,
+        "price": prices}
 
     # Loop through each island and each attribute, compare them, and put in the dictionary a yes or no based on if the country has the attribute
     for item in all_unique_attributes:
@@ -141,3 +155,5 @@ def scrape(browser):
     df = pd.DataFrame(island_attributes_dict)
 
     return df
+
+#df = scrape(browser)
