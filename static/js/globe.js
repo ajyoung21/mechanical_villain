@@ -6,15 +6,40 @@ console.log('hello')
 
 // ms to wait after dragging before auto-rotating
 
-var audio = $("#mySoundClip")[0];
+var numpitch = 1
+var audio = $(`#mySoundClip${numpitch}`)[0];
+console.log(audio)
+
+
 $("#cat").mouseenter(function() {
   audio.play();
-  console.log('Playing Music')
+
+}).on('click', function() {
+  if (numpitch < 5) {
+  audio.pause();
+  audio.currentTime = 0;
+  numpitch = numpitch + 1
+}
+ 
+  audio = $(`#mySoundClip${numpitch}`)[0];
+  audio.play();
+  console.log(`#mySoundClip${numpitch}`);
+
+}).dblclick(function() {
+  audio.pause();
+  audio.currentTime = 0;
+  numpitch = 1
+  audio = $(`#mySoundClip${numpitch}`)[0];
+  audio.play();
+  console.log(`#mySoundClip${numpitch}`);
+
+
 }).mouseleave(function() {
   audio.pause();
   audio.currentTime = 0;
   console.log('Stopped Music')
 });
+
 
 
 d3.json("../data/islands_with_country_code.json", function(data) {
