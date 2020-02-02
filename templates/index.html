@@ -224,7 +224,8 @@
           <br>
         </div>
       </div>
-      <div class="col-md-3"><img id="cat" src="../static/images/cat.jpg"></div>
+      <div class="col-md-3"><img id="cat" src="../static/images/cat.jpg">
+        <audio id=mySoundClip src=../static/images/Cat_Dance/shooting_stars.mp3></audio></div>
       <div class="col-md-3"><div id="gauge"></div>
     </div>
   </div>
@@ -252,11 +253,12 @@
   <br>
   <br>
 
-  <div id="globe"></div>
+  <div id="globe"> Here is where the globe should be</div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="{{ url_for('static', filename='js/build.js') }}"></script>
   <script src="{{ url_for('static', filename='js/globe.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/build.js') }}"></script>
+ 
 </body>
 </html>

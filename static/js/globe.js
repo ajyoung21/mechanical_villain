@@ -2,12 +2,22 @@
 // Configuration
 //
 
+console.log('hello')
+
 // ms to wait after dragging before auto-rotating
 
+var audio = $("#mySoundClip")[0];
+$("#cat").mouseenter(function() {
+  audio.play();
+  console.log('Playing Music')
+}).mouseleave(function() {
+  audio.pause();
+  audio.currentTime = 0;
+  console.log('Stopped Music')
+});
 
 
-
-d3.csv("islands_with_country_code.csv", function(data) {
+d3.json("../data/islands_with_country_code.json", function(data) {
 
 
   
