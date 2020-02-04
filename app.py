@@ -38,6 +38,10 @@ def about():
 def data_table():
     return render_template("data_table.html")
 
+@app.route("/globe")
+def globe():
+    return render_template("globe.html")
+
 if __name__ == '__main__':
 	port = int(os.environ.get('PORT', 5000))
 	app.run(host='0.0.0.0', port=port)

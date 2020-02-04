@@ -20,6 +20,10 @@
 
   <style>
 
+canvas { 
+  width: 100%;
+  height: auto;
+}
 
  #cat:hover{
    animation: catmove 0.55s infinite
@@ -158,10 +162,13 @@
           <a class="nav-link" href="#"><h3>Home Page</h3><span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item active">
+          <a class="nav-link" href="/globe"><h3>Globe</h3><span class="sr-only">(current)</span></a>
+        <li class="nav-item active">
           <a class="nav-link" href="/data_table"><h3>Data Table</h3><span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="/about_us"><h3>About Us</h3><span class="sr-only">(current)</span></a>
+          
         </li>
       </ul>
     </div>
@@ -257,13 +264,16 @@
   </div>
   <br>
   <br>
-
-  <div id="globe"> Here is where the globe should be</div>
+  
+  </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="{{ url_for('static', filename='js/globe.js') }}"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
   <script src="{{ url_for('static', filename='js/build.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/cat.js') }}"></script>
+
+
+
  
 </body>
 </html>

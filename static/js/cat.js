@@ -66,14 +66,6 @@ d3.json("/data_one").then((data) => {
 
 
 
-
-
-
-
-
- 
-
-
 // ms to wait after dragging before auto-rotating
 var rotationDelay = 3000
 // scale of the globe (not the canvas element)
@@ -103,8 +95,6 @@ function enter(country) {
 function leave(country) {
   current.text('')
 }
-
-
 
 
 
