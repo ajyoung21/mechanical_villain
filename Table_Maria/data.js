@@ -89,5 +89,104 @@ var data =[{
     Latitude: 17.10,
     Longitude: -61.70
 },
+{
+    Insland_Name: "Isla Rancheria",
+    continent: "Cenrtral America",
+    Country: "Panama",
+    Price: NaN,
+    Acreage: 310,
+    Latitude: 8.26,
+    Longitude: -82.42
+},
+{
+    Insland_Name: "Darby Island",
+    continent: "North America",
+    Country: "Bahamas",
+    Price: 46000000,
+    Acreage: 554,
+    Latitude: 23.84,
+    Longitude: -76.22
+},
+{
+    Insland_Name: "Motu Tane",
+    continent: "Europe",
+    Country: "France",
+    Price: 39000000,
+    Acreage: 10,
+    Latitude: -16.44,
+    Longitude: -151.56
+},
+{
+    Insland_Name: "Organica Beach",
+    continent: "Oceania",
+    Country: "Panama",
+    Price: 38000000,
+    Acreage: 14.92,
+    Latitude: -8.30,
+    Longitude: -78.97
+},
+{
+    Insland_Name: "Big Grand Cary",
+    continent: "North America",
+    Country: "Bahamas",
+    Price: 29000000,
+    Acreage: 213,
+    Latitude: 27.22,
+    Longitude: -78.31
+},
+{
+    Insland_Name: "Kanacea Island",
+    continent: "South Pacific",
+    Country: "France",
+    Price: 26000000,
+    Acreage: 30.85,
+    Latitude: -17.26,
+    Longitude: -179.34
+},
+{
+    Insland_Name: "Lighthouse Cary",
+    continent: "North America",
+    Country: "Bahamas",
+    Price: 26000000,
+    Acreage: 7.65,
+    Latitude: 24.76,
+    Longitude: -76.14
+},
 
+{
+    Insland_Name: "Mantana South Seas Plantation",
+    continent: "North America",
+    Country: "Bahamas",
+    Price: 26000000,
+    Acreage: 7.65,
+    Latitude: 24.76,
+    Longitude: -76.47
+},
+{
+    Insland_Name: "Lera Cary",
+    continent: "North America",
+    Country: "Bahamas",
+    Price: 24000000,
+    Acreage: 80,
+    Latitude: 24.76,
+    Longitude: -76.26
+},
+{
+    Insland_Name: "El Nido Peninsula",
+    continent: "Asia",
+    Country: "Philipines",
+    Price: 199000,
+    Acreage: 3,
+    Latitude: 11.10,
+    Longitude: 119.34
+},
+{
+    Insland_Name: "Pebble Island",
+    continent: "Saouth America",
+    Country: "Frankland Island",
+    Price: 119000,
+    Acreage: 26.24,
+    Latitude: -51.28,
+    Longitude: -59.65
+},
 ];

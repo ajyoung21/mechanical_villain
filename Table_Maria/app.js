@@ -15,11 +15,11 @@ function autopopulate(tableData) {
     tbody.html("");
    
     //d3 will help to populate tableData 
-    tableData.forEach((continent) => {
+    tableData.forEach((Continent) => {
     var row = tbody.append("tr");
-    //console.log(alients);
+    //console.log(Continent);
     
-    Object.values(continent).forEach((val) => {
+    Object.values(Continent).forEach((val) => {
         var cell = row.append("td");
         cell.text(val);
     });
@@ -33,14 +33,32 @@ d3.select("#filter-btn").on("click", getNewData);
 
 function getNewData() {
 
-var date = d3.select("#datetime").property("value");
+var Continent = d3.select("#Continent").property("value");
+
+console.log(Continent)
 
 let newData = tableData;
 
-if (date) {
-    newData = newData.filter(row => row.datetime === date);
+if (Continent) {
+    newData = newData.filter(row => row.continent === Continent);
 }
 console.log(newData);
 autopopulate(newData);
 }
 
+d3.select("#filter-btn").on("click", getNewData);
+
+function getNewData() {
+
+var Country = d3.select("#Country").property("value");
+
+console.log(Country)
+
+let newData = tableData;
+
+if (Country) {
+    newData = newData.filter(row => row.Country === Country);
+}
+console.log(newData);
+autopopulate(newData);
+}
