@@ -274,6 +274,82 @@ function make_scatter(data) {
   Plotly.newPlot("scatter", cool, layout)
 }
 
+// This function makes the pricing/acreage scatterplot
+function make_scatter(data) {
+  
+  // Set up lists for later use
+  acreages = []
+  names = []
+  prices = []
+
+  // Loop through each island
+  data.forEach((island) => {
+    // Grab relevant information
+    var island_name = island[0]
+    var island_info = island[1]
+    var country = island_info["Country"]
+    var acreage = island_info["Acreage"]
+    var price = with_price["price"]
+
+    var my_string = island_name.concat(": ", country)
+    
+    // append valuse to lists
+    acreages.push(acreage)
+    prices.push(price)
+    names.push(my_string)
+
+      
+  })
+  
+  // Set up trace
+  var trace1 = {
+    x: prices,
+    y: acreages,
+    mode: 'markers',
+    marker: {size:6},
+    text: names,
+    type: 'scatter'
+  }
+  
+  // Set up the scatterplot layout
+  var layout = {
+      title: {
+        text:'Island Size vs Price',
+        font: {
+          family: 'Courier New, monospace',
+          size: 24
+        },
+        xref: 'paper',
+        x: 0.05,
+      },
+      xaxis: {
+        title: {
+          text: 'Price in American Dollars',
+          font: {
+            family: 'Courier New, monospace',
+            size: 18,
+            color: '#7f7f7f'
+          }
+        },
+      },
+      yaxis: {
+        title: {
+          text: 'Island Acreage',
+          font: {
+            family: 'Courier New, monospace',
+            size: 18,
+            color: '#7f7f7f'
+          }
+        }
+      }
+    };
+
+  var cool = [trace1]
+
+  // Plot the data
+  Plotly.newPlot("scatter", cool, layout)
+}
+
 // This function makes the bar chart
 function make_bar() {
   // Read in the data about each country
