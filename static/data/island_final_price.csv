@@ -1,0 +1,694 @@
+,Island_Name,Acreage,Country,latitude,longitude,Large Acreage,Ocean Island,Income Potential,Mainland Power,Islands with Beaches,Turn Key,Airstrip or Fly-in,Income Producing,Lake Island,Seasonal,Historic,River Island,Mainland Lot,nearest_city,city_distance,price,predicted
+0,Rangyai Island,110,Thailand,7.954389999999999,98.44730600000001,1,1,1,0,1,0,0,0,0,0,0,0,0,Ban Ko Kaeo,3.69,160000000.0,no
+1,Pumpkin Key,26,United States of America,24.713197,-81.55425279999999,1,1,1,0,0,1,0,0,0,0,0,0,0,Cudjoe Key,4.54,95000000.0,no
+2,Spectabilis Island,460,Bahamas,24.35803210000001,-76.58215279999997,1,1,1,0,1,0,0,0,0,0,0,0,0,Arthur’s Town,60.1,62000000.0,no
+3,Cave Cay,222,Bahamas,23.901611090339998,-76.26314199536101,1,1,1,0,1,1,0,0,0,0,0,0,0,George Town,40.22,60000000.0,no
+4,Nengo Nengo Atoll,2223,France,-18.75310201788,-141.80789642334,1,1,1,0,1,0,1,0,0,0,0,0,0,Avarua,1178.3,55778670.24,no
+5,Darby Island,554,Bahamas,23.8495955,-76.22763370000001,1,1,1,0,1,1,1,0,0,0,1,0,0,George Town,36.18,46000000.0,no
+6,Dulichium Island,1335,Greece,38.414257277137,21.091775751343,1,1,0,0,0,0,0,0,0,0,0,0,0,Astakós,8.4,44622936.19,no
+7,Motu Tane,10,France,-16.4490481,-151.7630533,0,1,1,0,1,1,0,0,0,0,0,0,0,Avarua,618.38,39000000.0,no
+8,Organica Beach,1492,Panama,8.3091734471503,-78.970234166259,0,1,0,0,1,0,0,0,0,0,0,0,0,San Miguel,10.45,38000000.0,no
+9,Little Ragged Island,700,Bahamas,22.1649094,-75.7051647,1,1,1,0,1,0,0,0,0,0,0,0,0,Gibara,77.87,35000000.0,no
+10,Big Grand Cay Archipelago,213,Bahamas,27.221578378814996,-78.31628549921899,1,1,1,0,1,1,0,0,0,0,0,0,0,High Rock,42.32,29000000.0,no
+11,Frozen Cay and Alder Cay,84,Bahamas,25.543680537704,-77.713680267334,1,1,1,0,1,1,0,0,0,0,0,0,0,San Andros,39.08,29000000.0,no
+12,Bird Cay,250,Bahamas,25.4003556,-77.815285,1,1,0,0,1,0,1,0,0,0,0,0,0,San Andros,27.33,26000000.0,no
+13,Kanacea Island,3085,Fiji,-17.263613,-179.151735,1,1,0,0,1,0,0,0,0,0,0,0,0,Lau Province,69.2,26000000.0,no
+14,Nusa Riro,22,Solomon Islands,-8.2876215273616,157.13175418427,1,1,0,0,0,0,0,0,1,0,1,0,0,Gizo,23.57,25000000.0,no
+15,Matana South Seas Plantation,806,Fiji,-17.260587688582,179.34997545459,1,1,0,0,1,0,0,0,0,0,0,0,0,Cakaudrove Province,41.27,25000000.0,no
+16,Lera Cay,80,Bahamas,24.7615833,-76.26819444444399,0,1,1,0,1,0,0,0,0,0,0,0,0,Arthur’s Town,38.67,24000000.0,no
+17,Leaf Cay Private Residences,15,Bahamas,24.150151,-76.473169,0,1,1,0,1,1,1,1,0,0,0,0,0,Arthur’s Town,60.08,24000000.0,no
+18,Captiva Key,13,United States of America,26.509387462845996,-82.184738017444,0,0,0,0,0,0,0,0,0,0,0,0,0,Saint James City,6.62,22000000.0,no
+19,The Plantation,495,Belize,16.587927998458,-88.362654604315,1,1,0,0,1,0,0,0,0,0,0,0,0,Placencia,5.1,21000000.0,no
+20,Guafo Island,49422,Chile,-43.59305560000001,-74.7136111,1,1,0,0,0,0,0,0,0,0,0,0,0,Quellón,64.14,20000000.0,no
+21,Ile de Caille,400,Grenada,12.287246000000001,-61.58314300000001,1,1,1,0,1,0,0,0,0,0,0,0,0,Sauteurs,6.08,20000000.0,no
+22,Jwycesska Island,351,Bahamas,27.1206248,-78.08373459999999,1,1,0,0,1,0,0,0,0,0,0,0,0,High Rock,37.27,19000000.0,no
+23,Violin Island,321,Mexico,18.809859895888,-88.087663257691,1,1,0,0,1,0,0,0,0,0,0,0,0,Calderitas,20.71,18000000.0,no
+24,Little Hawkins Island,3,United States of America,31.197381,-81.394983,0,0,1,1,0,1,0,0,0,0,1,1,0,Saint Simon Mills,1.98,17800000.0,no
+25,Frozen Cay,40,Bahamas,25.548584336378003,-77.71307239258999,0,1,1,0,1,1,0,0,0,0,0,0,0,San Andros,39.39,17000000.0,no
+26,St Thomas,300,Greece,37.809622999999995,23.247124,1,1,0,0,0,0,0,0,0,0,0,0,0,Ágioi Theódoroi,9.95,16733601.07,no
+27,World Island Project (D98),12,United Arab Emirates,25.231060807557,55.167477416992,0,1,1,1,1,0,0,0,0,0,0,0,0,Dubai,13.84,16000000.0,no
+28,Charles Island,55,Bahamas,25.540893,-76.748171,1,1,1,0,0,0,0,0,0,0,0,0,0,Spanish Wells,1.08,16000000.0,no
+29,Palm Island,4,United States of America,24.712448758751997,-81.10686047486901,0,1,1,0,1,1,0,0,0,0,0,0,0,Marathon,1.04,15500000.0,no
+30,Terra's Key,16,United States of America,24.892688685289997,-80.65894130423,0,1,1,1,1,1,0,0,0,0,0,0,0,Islamorada,2.93,15000000.0,no
+31,East Sister Rock,1,United States of America,24.687248045946003,-81.074581708598,0,1,1,0,0,1,0,0,0,0,0,0,0,Marathon,2.08,15000000.0,no
+32,Alder Cay,43,Bahamas,25.5368382,-77.71444609999998,0,1,1,0,1,1,0,0,0,0,0,0,0,San Andros,38.66,15000000.0,no
+33,Cebaco Island,7410,Panama,7.5527201,-81.0865035,1,1,1,0,1,1,0,0,0,0,0,0,1,Mariato District,10.34,15000000.0,no
+34,Big Sampson Cay,121,Bahamas,24.212270800000002,-76.4772748,1,1,1,0,1,1,1,0,0,0,0,0,0,Arthur’s Town,58.08,14500000.0,no
+35,Elizabeth Island Property,38,Bahamas,23.503712256995,-75.720227208398,1,1,1,0,1,1,0,0,0,0,0,0,0,George Town,4.3,14000000.0,no
+36,False Caye,60,Belize,16.602023452031,-88.338857012537,1,1,0,0,1,0,0,0,0,0,0,0,0,Placencia,6.34,12000000.0,no
+37,Nananu-I-Cake,600,Fiji,-17.31839772771,178.23174825928,0,0,0,0,0,0,0,0,0,0,0,0,0,Ra Province,13.26,12000000.0,no
+38,An Island Within An Island,14,Bahamas,26.504536409891,-78.656153578821,1,1,0,0,0,0,0,0,0,0,0,0,0,Lucaya,2.09,12000000.0,no
+39,Saddleback Cay,47,Bahamas,24.654108960511998,-76.810913085938,1,1,1,0,1,0,0,0,0,0,0,0,0,Nassau,43.5,11800000.0,no
+40,Pepin Island,1280,New Zealand,-41.150710499999995,173.42646519999997,1,1,1,0,1,1,0,0,0,0,0,0,0,Nelson,11.12,11467068.01,no
+41,The Duke Group Archipelago,3300,Australia,-21.983476,150.16093999999995,1,1,1,0,1,1,1,0,0,0,0,0,0,Sarina,72.07,11379153.39,no
+42,Spalathronisi Island,26,Greece,40.020836439853,23.807564664063,1,1,0,0,1,0,0,0,0,0,0,0,0,Néos Marmarás,5.36,11155734.05,no
+43,Nakacha Huraa Lagoon,29,Maldives,4.3442396845888,73.390642771936,1,1,0,0,1,0,0,0,0,0,0,0,0,Hulhumale,13.78,11000000.0,no
+44,Isla Puerco,160,Panama,8.3674816117751,-78.807892735474,1,1,0,0,1,0,0,0,0,0,0,0,0,San Miguel,10.77,11000000.0,no
+45,Batchawana Island,5200,Canada,46.892542575833,-84.518707020508,1,0,0,0,0,0,0,0,1,0,0,0,0,Sault Ste. Marie,27.41,10972379.87,no
+46,Kuramaadhoo Island,44,Maldives,5.873270622952501,73.143555492065,1,1,1,0,1,0,0,0,0,0,0,0,0,Ugoofaaru,16.18,10765283.36,no
+47,Keraamithaa Island,103,Maldives,0.390701,73.012837,1,1,0,0,0,0,0,0,0,0,0,0,0,Thinadhoo,9.71,10765283.36,no
+48,Deer Cay,603,Belize,18.098019096371,-87.95653867876,1,1,0,0,0,0,0,0,0,0,0,0,0,San Pedro,12.59,10500000.0,no
+49,Thompson Island,5,United States of America,24.564164771563,-81.74923418437801,0,1,1,0,0,1,0,0,0,0,0,0,0,Stock Island,0.71,10495000.0,no
+50,Tavernier Key,31,United States of America,24.997050346648003,-80.502186196729,1,1,0,0,0,0,0,0,0,0,0,0,0,Tavernier,1.28,10149000.0,no
+51,Toad Hall Estate,6,United Kingdom,18.430332699999997,-64.4435806,0,0,0,0,0,1,0,1,0,0,0,0,0,Saint Paul’s,127.21,10000000.0,no
+52,Belle Island & Cubbage Island,264,United States of America,31.76382999047,-81.22067805659199,1,0,0,0,0,0,0,0,0,0,1,1,0,Midway,12.67,10000000.0,no
+53,Young Island Resort,13,SVG,13.13102202381,-61.202609669998,0,1,0,0,1,1,0,1,0,0,0,0,0,Kingstown,2.37,10000000.0,no
+54,Water Caye,567,Belize,17.384237,-88.064037,1,1,0,0,0,0,0,0,0,0,0,0,0,Belize City,11.87,10000000.0,no
+55,Lataro Island,719,Vanuatu,-15.265039999999999,167.191537,1,1,1,0,1,1,1,1,0,0,0,0,1,Port-Olry,17.35,9995000.0,no
+56,Great Sale Cay,370,Bahamas,26.996629600000002,-78.21058570000002,1,1,1,0,1,0,0,0,0,0,0,0,0,High Rock,27.04,9900000.0,no
+57,Lumber Cay,30,Bahamas,24.161774994724002,-76.430015586694,1,1,0,0,1,0,0,0,0,0,0,0,0,Arthur’s Town,57.37,9400000.0,no
+58,Jim Cay,8,Bahamas,23.883476164965,-76.25602703223298,0,1,0,0,1,0,0,0,0,0,0,0,0,George Town,39.06,9000000.0,no
+59,Sandy Island,20,Grenada,12.2220101,-61.5858804,0,0,0,0,0,0,0,0,0,0,0,0,0,Sauteurs,3.61,9000000.0,no
+60,Isla Di Yerba,8,Curacao,12.079673590662,-68.845199630566,0,1,0,0,0,0,0,0,0,0,0,0,1,Puerto Cumarebo,53.5,8800000.0,no
+61,Trump Island,29,United States of America,48.5044389,-122.8386889,1,0,1,0,0,1,0,0,1,0,0,0,0,Friday Harbor,8.42,8750000.0,no
+62,Leaf Cay,30,Bahamas,23.7861,-76.1271,0,1,1,0,1,0,0,0,0,0,0,0,0,George Town,28.5,8500000.0,no
+63,Roberts Cay,20,Bahamas,24.796630248371,-76.831727423279,0,1,1,0,1,0,0,0,0,0,0,0,0,Nassau,36.79,8000000.0,no
+64,Sipson Island,25,United States of America,41.736553716213,-69.963220453967,1,1,1,0,1,1,0,0,0,0,1,0,1,Chatham,3.77,7985000.0,no
+65,Devils Cay,117,Bahamas,25.600664000000002,-77.728615,1,1,1,0,1,0,0,0,0,0,0,0,0,San Andros,42.0,7950000.0,no
+66,Katitche Point Greathouse,1,United Kingdom,18.47188,-64.414659289,0,0,0,0,0,1,0,1,0,0,0,0,0,Saint Paul’s,127.27,7950000.0,no
+67,Powell Cay,294,Bahamas,26.908188800000005,-77.4773674,1,1,1,0,1,0,0,0,0,0,0,0,0,Cooper’s Town,3.29,7895000.0,no
+68,Woodmere Island,5,Canada,45.143840999999995,-79.583031,0,0,1,1,0,1,0,0,1,1,0,0,0,Bracebridge,15.08,7895000.0,no
+69,Kaashihulhudhoo Island,38,Maldives,0.48814383502309,72.994624296728,1,1,0,0,1,0,0,0,0,0,0,0,0,Thinadhoo,2.95,7809013.83,no
+70,Horse Island,157,Ireland,51.51630460000001,-9.4680023,1,1,1,0,1,1,1,0,0,0,0,0,0,Skibbereen,8.96,7530120.48,no
+71,Adavaci Island,102,Fiji,-17.200052192319,-179.00711732794,1,1,0,0,1,0,0,0,0,0,0,0,0,Lau Province,70.85,7500000.0,no
+72,Petit Trou Peninsula,50,Grenada,12.025008319683002,-61.659445166595,1,1,0,0,1,0,0,0,0,0,0,0,0,Saint David’s,1.77,7500000.0,no
+73,Frenchman's Caye,200,Belize,17.572844202155,-88.07520285101299,1,1,0,0,0,0,0,0,0,0,0,0,0,Belize City,9.52,7500000.0,no
+74,Parida Island,217,Panama,8.1294648092245,-82.332038738037,1,1,1,0,1,1,1,0,0,0,0,0,0,Pedregal,17.79,7500000.0,no
+75,Aese Island,1690,Vanuatu,-15.4316954,167.2491365,1,1,0,0,1,0,0,0,0,0,0,0,0,Luganville,8.4,7500000.0,no
+76,Sand Dollar Cay,24,Bahamas,25.570007589664996,-77.723293432861,0,1,1,0,1,0,0,0,0,0,0,0,0,San Andros,40.32,7200000.0,no
+77,Motu Rauoro,18,France,-16.572897586134,-151.44357146067,0,1,0,0,1,0,0,0,0,0,0,0,0,Avarua,631.61,7137688.53,no
+78,Sawyer's Cay,6,Bahamas,25.539214,-76.80510699999998,0,1,1,0,1,0,0,0,0,0,0,0,0,Spanish Wells,2.62,7050000.0,no
+79,Bonefish Cay 135-acres,14,Bahamas,26.890357276101998,-77.451210363477,0,1,1,0,1,1,0,0,0,0,0,0,0,Cooper’s Town,3.93,7000000.0,no
+80,40-acre Beachfront Property on Ambergris Caye,40,Belize,18.001592000000006,-87.94328370000002,1,1,0,1,1,0,0,0,0,0,0,0,0,San Pedro,6.1,6999500.0,no
+81,Bird Island,51,United States of America,28.897588121452998,-81.851878186755,1,0,1,0,0,1,0,0,1,0,0,0,0,Fruitland Park,4.14,6700000.0,no
+82,Vargas Island Lot,65,Canada,49.202900055189,-126.03647077867,1,1,0,0,1,0,1,0,0,0,0,0,0,Tofino,6.77,6600000.0,no
+83,Motu Moie,20,France,-16.558143428902,-151.51192377453998,0,1,1,0,1,1,0,0,0,0,0,0,0,Avarua,628.31,6500000.0,no
+84,Tiger Point,359,Belize,17.249595979556002,-88.337132008984,0,0,0,0,0,0,0,0,0,0,0,0,0,Belize City,19.57,6400000.0,no
+85,Nail Bay Land,60,United Kingdom,18.493905899999998,-64.4022877,1,1,1,0,0,0,0,0,0,0,0,0,0,Saint Paul’s,127.49,6200000.0,no
+86,Toberua Island Resort,5,Fiji,-17.9749062,178.7047,0,1,0,0,1,1,0,1,0,0,0,0,0,Tailevu Province,16.64,6200000.0,no
+87,Kelefesia Island,32,Tonga,-20.501593015529,-174.73575489941,1,1,0,0,1,0,0,0,0,0,0,0,0,Kolonga,48.6,6000000.0,no
+88,Janoyoy Island,4,Philippines,9.754685199999999,126.13128529999999,0,1,0,0,1,0,0,0,0,0,0,0,0,Union,1.44,5600000.0,no
+89,Pierre Island,16,Bahamas,25.556148,-76.659508,0,1,1,0,1,0,0,0,0,0,0,0,0,Dunmore Town,4.0,5495000.0,no
+90,Stroggilo Island,54,Greece,37.372743083346,26.716260910034,1,1,0,1,0,0,0,0,0,0,0,0,0,Skála,10.14,5020080.32,no
+91,Fishermans Caye,42,Belize,16.672240983807,-88.189809406494,1,1,0,0,1,0,0,0,0,0,0,0,0,Placencia,16.0,4995000.0,no
+92,Tivi Island,150,Fiji,-16.272035532284,179.46879186902,1,1,0,0,1,0,0,0,0,0,0,0,0,Labasa,13.11,4995000.0,no
+93,La Patella,1,Bahamas,25.046294712052998,-77.500128857811,0,1,1,0,0,1,0,0,0,0,0,0,0,Nassau,9.87,4950000.0,no
+94,North Saddle Caye,4,Belize,16.693212043576,-88.171033100525,0,1,1,0,0,1,0,0,0,0,0,0,0,Placencia,17.9,4950000.0,no
+95,Goat Cay,7,Bahamas,23.402352664334,-75.51426998864801,0,1,1,0,0,0,0,0,0,0,0,0,0,George Town,18.97,4800000.0,no
+96,Bainema Paradise Beach Villa,158,Brazil,-13.623767218007,-38.904993726368,1,1,1,0,0,1,0,0,0,0,0,0,0,Cairu,7.31,4680000.0,no
+97,Isla Brava,140,Panama,8.1830842766129,-82.25595582525601,1,1,0,0,1,0,0,0,0,0,0,0,0,San Lorenzo,13.55,4600000.0,no
+98,Big Fish Cay,55,Bahamas,27.049362100000003,-77.8374429,1,1,1,0,1,1,0,0,0,0,0,0,0,Cooper’s Town,23.55,4500000.0,no
+99,65-Acre Private Island Resort,7,Belize,17.575057271267,-88.064189529053,0,1,1,0,1,1,0,0,0,0,0,0,0,Belize City,10.22,4500000.0,no
+100,"Hawks Nest Cay, 26 acres",26,Bahamas,25.748372256259,-77.820128354956,1,1,0,0,1,0,0,0,0,0,0,0,0,San Andros,49.24,4500000.0,no
+101,Valiha Island,950,Madagascar,-12.385039,48.70694,1,1,0,0,1,0,0,0,0,0,0,0,0,Mahalina,12.64,4462293.62,no
+102,Cerboli Island,10,Italy,42.8583454,10.5475429,0,1,0,0,0,0,0,0,0,0,0,0,0,Piombino,4.77,4462293.62,no
+103,Lake Saimaa Development,256,Finland,61.7394836,29.1283248,1,0,0,0,0,0,0,0,1,0,0,0,0,Punkaharju,8.61,4400000.0,no
+104,Montego Caye,119,Belize,17.586769730739,-88.08263120805702,1,1,0,0,1,0,0,0,0,0,0,0,0,Belize City,9.68,4250000.0,no
+105,Golden Pavilion,4,United Kingdom,18.456187032225,-64.5739799021,0,1,1,0,0,1,0,0,0,0,0,0,0,Saint Paul’s,135.36,4250000.0,no
+106,Koome Island,3053,Uganda,-0.06078554512572,32.825773656067,1,0,0,0,0,0,0,0,1,0,0,0,0,Entebbe,25.25,4000000.0,no
+107,Four Islands in Panama,45,Panama,9.593418152061599,-79.664805793762,1,1,0,0,1,0,0,0,0,0,0,0,0,Portobelo,2.84,4000000.0,no
+108,1 Mandalay Island,3,United States of America,27.181327500000002,-80.1868135,0,1,1,0,1,1,0,0,0,0,0,0,0,Sewall's Point,1.57,3995000.0,no
+109,Puenta Vieja Parcel,30,Panama,9.2937751849534,-82.08274235866101,1,1,0,0,1,0,0,0,0,0,0,0,0,Isla Bastimentos,3.48,3988000.0,no
+110,Wild Berry Cay,100,Bahamas,25.4618921,-77.793122,1,1,1,0,1,0,0,0,0,0,0,0,0,San Andros,31.68,3950000.0,no
+111,Faraway Camp,50,Canada,45.98770208555101,-81.553664520703,0,0,1,0,0,1,0,0,1,1,1,0,0,Little Current,17.83,3779795.69,no
+112,Petite Cay,36,Bahamas,25.772586991466998,-77.834499382837,1,1,0,0,1,0,0,0,0,0,0,0,0,San Andros,50.59,3750000.0,no
+113,Quartz Bay,88,Canada,50.163471549273005,-124.98944184608999,0,1,1,0,0,1,0,0,0,0,0,0,0,Campbell River,15.21,3745743.47,no
+114,Angel Island,3,Canada,49.377718624928995,-94.125371296387,0,0,1,1,0,1,0,0,1,1,0,0,0,Kenora,31.49,3707907.68,no
+115,Koh Jum Island Lodge,7,Thailand,7.8118868,98.9769851,0,0,0,0,0,0,0,0,0,0,0,0,0,Amphoe Ko Lanta,9.74,3600000.0,no
+116,Medio Island,99,Philippines,12.38,124.04055600000001,1,1,0,0,1,0,0,0,0,0,0,0,0,Capul,9.95,3500000.0,no
+117,Little Goat Island,390,United States of America,32.789100063283,-79.798896457544,1,1,0,0,0,0,0,0,0,0,0,0,0,Isle of Palms,0.28,3500000.0,no
+118,Isla Bonita,20,Brazil,-22.991823161238,-43.910332969385,0,1,1,0,1,1,0,0,0,0,0,0,0,Mangaratiba,8.58,3500000.0,no
+119,AuTrain Island,106,United States of America,46.485628999999996,-86.896019,1,0,0,0,0,0,0,0,1,0,0,0,0,Munising,12.82,3450000.0,no
+120,Wild Duck Island,300,Australia,-22.006397,149.8555,1,1,1,0,1,0,1,0,0,0,0,0,0,Sarina,57.69,3413746.02,no
+121,Whitestone Island,6,Canada,49.596500534036,-124.04484564722,0,1,1,0,0,1,0,0,0,0,0,0,0,South Pender Harbour,1.98,3405221.34,no
+122,Dumunpalit Island,75,,12.3830556,120.1172222,1,1,0,0,1,0,0,0,0,0,0,0,0,Buluang,19.3,3400000.0,no
+123,Fazenda Cipo Island,25,Brazil,-13.761744214978002,-39.102697763354,1,1,0,0,1,0,0,0,0,0,0,0,0,Ituberá,3.54,3346720.21,no
+124,Lihnari Peninsula,95,Greece,37.8419,23.0669,1,1,0,0,0,0,0,0,0,0,0,0,0,Sofikón,3.4,3346720.21,no
+125,Kythnos Island parcel,187,Greece,37.3933984,24.41733210000001,1,1,0,0,1,0,0,0,0,0,0,0,0,Nomós Kykládon,27.45,3235162.87,no
+126,Loud Island,30,United States of America,44.481756268327,-83.371748580395,1,0,1,0,0,1,0,0,1,0,1,0,1,Au Sable,5.27,3200000.0,no
+127,The Carolina Cays,256,United States of America,35.87920326,-75.63056954,1,1,0,0,1,0,0,0,0,0,0,0,0,Wanchese,2.56,3200000.0,no
+128,Historic Popenhager Camp,21,United States of America,25.9867611,-81.0431176,1,0,1,0,0,1,0,0,1,0,1,1,0,Collier County,22.37,3150000.0,no
+129,Victoria Point Cays,10,Bahamas,24.228493092317,-77.622438263446,0,1,1,0,0,1,0,0,0,0,0,0,0,Andros Town,34.19,3100000.0,no
+130,Benbow Caye,133,Belize,17.477182355903,-88.085782798584,1,1,0,0,0,0,0,0,0,0,0,0,0,Belize City,7.53,3000000.0,no
+131,Soneva Jani,1,Maldives,5.7116682307060005,73.41500039577,0,1,1,0,1,1,0,0,0,0,0,0,0,Manadhoo,3.82,3000000.0,no
+132,Soneva Fushi,1,Maldives,5.111997,73.078154,0,1,1,0,1,1,0,0,0,0,0,0,0,Open Stage,0.67,3000000.0,no
+133,Itaranajá Island,3756,Brazil,-0.65,-47.21666670000001,1,1,0,0,0,0,0,0,0,0,0,0,0,São João de Pirabas,9.04,3000000.0,no
+134,Islas Marias,27,Panama,7.7099136918319,-81.071343698425,1,1,0,0,1,0,0,0,0,0,0,0,0,Mariato District,5.1,3000000.0,no
+135,Pucoy Island,141,Philippines,11.7516371,119.95815379999999,1,1,0,0,1,0,0,0,0,0,0,0,0,San Miguel,18.87,3000000.0,no
+136,Big Gull Island,12,United States of America,56.99569585671699,-135.34265605239,0,1,1,0,0,1,0,0,0,0,0,0,0,Sitka,3.99,3000000.0,no
+137,Kadomo Island,70,Fiji,-17.492507999999994,177.0518092,1,1,0,0,1,0,0,0,0,0,0,0,0,Lautoka,27.63,2980000.0,no
+138,Whiskey Island,3,United States of America,44.24727,-76.153,0,0,1,0,0,1,0,0,0,0,0,1,0,Clayton,3.37,2950000.0,no
+139,High Cay,31,Bahamas,23.949181018009,-74.476727632016,0,1,0,0,1,0,0,0,0,0,1,0,0,Clarence Town,66.88,2950000.0,no
+140,Cambria Island,4,Canada,45.540331683775996,-80.437903119049,0,0,1,0,0,1,0,0,1,0,1,0,0,Parry Sound,23.64,2947408.25,no
+141,Bigwood Island,36,Canada,45.764793950427,-80.640522540918,1,0,1,0,0,1,0,0,1,0,0,0,0,Parry Sound District,38.94,2913356.03,no
+142,Point Pleasant,500,Canada,46.040075845372,-62.535433817261,1,0,0,0,0,0,0,0,0,1,0,0,0,Montague,10.3,2900000.0,no
+143,Mowgli Island,9,,48.971999200000006,-123.6084175,0,1,1,0,0,0,0,0,0,0,0,0,0,Chemainus,6.34,2875520.24,no
+144,Cogra Point Peninsula,28,Australia,-33.52756,151.226699,1,1,1,0,0,1,0,0,0,0,0,0,0,Umina Beach,4.99,2850000.0,no
+145,Palm Ridge Property,5,United Kingdom,18.422412866167,-64.620904297217,0,1,1,0,1,1,0,0,0,0,0,0,0,Saint Paul’s,136.77,2800000.0,no
+146,Ligpo Island,1,Philippines,13.820500845808,120.90084979021002,0,1,1,1,0,1,0,0,0,0,0,0,0,San Luis,2.59,2800000.0,no
+147,Sandpenny Island,3,United States of America,30.665104757767,-81.51038087990098,0,0,1,1,0,1,0,0,1,0,0,0,0,Fernandina Beach,2.86,2749000.0,no
+148,Turtle Caye,19,Belize,17.455530149932002,-88.062199501709,0,1,0,0,1,0,0,0,0,0,0,0,0,Belize City,9.42,2700000.0,no
+149,Camp Island Silver Shoals Lodge,6,Australia,-19.849812741834,147.90211986984,0,1,1,0,1,1,0,0,0,0,0,0,0,Bowen,25.13,2655135.79,no
+150,Cedar Island,202,United States of America,35.007010496827995,-76.333437195922,0,1,0,0,1,0,0,0,0,0,0,0,0,Carteret County,14.99,2645000.0,no
+151,Rainforest Caye,37,Belize,16.17889,-88.64083000000002,1,1,0,0,1,0,0,0,0,0,0,0,0,Punta Gorda,12.51,2600000.0,no
+152,Crescent Island,4,United States of America,26.488359999999997,-82.08814220000002,0,1,1,0,1,1,0,1,0,0,0,0,0,Saint James City,0.88,2599000.0,no
+153,Villa Bergholmen,5,Finland,59.99483299999999,22.612667000000002,0,1,0,0,0,1,0,1,1,0,0,0,0,Dragsfjärd,6.68,2565818.83,no
+154,Island of South Walton,53,United States of America,30.378444640124002,-86.115082460327,1,1,0,0,0,0,0,0,0,0,0,0,0,Seaside,4.27,2500000.0,no
+155,A Dream Come True Villa,1,United Kingdom,18.471560646027,-64.41411892396401,0,1,1,0,1,1,0,0,0,0,0,0,0,Saint Paul’s,127.22,2500000.0,no
+156,Isla Cui Cui,30,Chile,-40.689670006185004,-72.383070765088,1,0,1,0,0,1,0,0,1,0,0,0,0,Puyehue,11.65,2500000.0,no
+157,Dan May Island,72,United States of America,29.280719172381,-83.104952271164,1,0,1,0,0,1,0,0,0,0,0,1,0,Levy County,19.06,2500000.0,no
+158,Hog Island,600,United States of America,34.997985883531,-76.27692149292,1,1,0,0,1,0,0,0,0,0,0,0,0,Carteret County,17.18,2500000.0,no
+159,South Cocoplum Caye,6,Belize,16.874582629297,-88.121740739456,0,1,0,0,1,0,0,0,0,0,0,0,0,Dangriga,9.87,2500000.0,no
+160,Koro Levu Island,8,Fiji,-16.7666667,-179.9833333,0,1,0,0,1,0,0,0,0,0,0,0,0,Cakaudrove Province,40.3,2500000.0,no
+161,Perpall Cayes,158,Bahamas,23.466670999999998,-75.833302,1,1,0,0,1,0,0,0,0,0,0,0,0,George Town,4.52,2500000.0,no
+162,Tambor and Magotes Islands,15,Panama,9.638133004427802,-79.528478984131,0,1,0,0,0,0,0,0,0,0,0,0,0,Nombre de Dios,5.64,2500000.0,no
+163,Morgans Caye,28,Belize,17.449959867472998,-88.070385510693,1,1,0,0,1,0,0,0,0,0,0,0,0,Belize City,9.05,2500000.0,no
+164,Echo Island B350,16,Canada,45.196330634610995,-80.133228480951,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,11.47,2489595.16,no
+165,Eshpabekong Island Archipelago,17,Canada,44.934858482022,-79.960584223865,1,0,1,0,0,1,0,0,1,0,0,0,0,Midland,13.32,2485811.58,no
+166,Sands Island,7,United States of America,30.418490000000002,-81.515264,0,0,1,0,0,1,0,0,0,0,0,1,0,Atlantic Beach,9.06,2300000.0,no
+167,Low Cay,25,Bahamas,23.93885,-74.481318,0,1,0,0,1,0,0,0,0,0,0,0,0,Clarence Town,66.11,2300000.0,no
+168,Bircholm on Deer Island,50,United States of America,44.264732878337,-74.332858135999,1,0,0,0,0,1,0,0,1,0,0,0,1,Tupper Lake,7.08,2250000.0,no
+169,Lakefront Cottages and Golf Course Retreat,40,Canada,45.7179106,-80.048324,1,0,1,0,0,1,0,0,1,0,0,0,0,Parry Sound District,10.62,2250000.0,no
+170,Bullocks Harbour Cay,224,Bahamas,25.774739290816,-77.879021238037,1,1,1,0,0,0,1,0,0,0,0,0,0,San Andros,50.07,2240000.0,no
+171,Frying Pan Island,7,Canada,45.165383191976005,-80.13133978302,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,13.41,2156640.18,no
+172,Goat Island,12,Canada,48.850546409134,-123.47975437157,0,1,0,0,1,0,0,0,0,0,0,0,0,Ganges,0.96,2156640.18,no
+173,Hewson and Ardwell Islands,16,Canada,45.172214368224,-80.115378752856,0,0,1,0,0,1,0,0,1,0,0,0,0,Parry Sound,12.71,2156640.18,no
+174,Monroe Island,160,Philippines,18.195306428277,120.52634155397,1,0,0,0,0,0,0,0,0,0,0,1,0,Laoag,4.56,2100000.0,no
+175,Vernon Island,22,Antigua,17.114604560019,-61.769406492065,0,1,1,0,0,0,0,0,0,0,0,0,0,Piggotts,2.03,2100000.0,no
+176,Malvanua Island,26,Vanuatu,-15.360639417699002,167.19412740583,1,1,1,0,1,1,0,0,0,0,0,0,0,Luganville,11.2,2048247.61,no
+177,Drowned Caye,95,Belize,17.470201179933,-88.079275512695,1,1,0,0,0,0,0,0,0,0,0,0,0,Belize City,8.05,2000000.0,no
+178,Pilotin Island,335,Vanuatu,-15.286529643393,167.21586949521003,1,1,0,0,1,0,0,0,0,0,0,0,0,Luganville,16.51,2000000.0,no
+179,Lagoon Caye,14,Belize,16.631804346907,-88.208287122583,0,1,0,0,0,0,0,0,0,0,0,0,0,Placencia,13.26,2000000.0,no
+180,San Miguel Archipelago,163,Panama,8.3893417452823,-78.189593253968,1,1,0,0,1,0,0,0,0,0,0,0,0,La Palma,3.6,2000000.0,no
+181,Les Isle Mouk Mouk,175,Canada,48.454708713091,-79.266014100586,1,0,0,0,0,0,0,0,1,0,0,0,0,Rouyn-Noranda,18.75,2000000.0,no
+182,Florida Keys Island,15,United States of America,24.749442855805,-80.971813227539,0,1,0,0,0,0,0,0,0,0,0,0,0,Marathon,7.84,2000000.0,no
+183,Big Bullard Cay,97,Bahamas,23.486760999999998,-75.8111127,1,1,0,0,1,0,0,0,0,0,0,0,0,George Town,2.56,2000000.0,no
+184,Round Island Lighthouse,7,United States of America,46.109094466592,-84.021276478302,0,0,1,0,0,1,0,0,0,0,0,1,0,Thessalon,23.83,1995000.0,no
+185,Tilagica Island,53,Fiji,-16.188257373968998,179.77831222596,1,1,1,0,1,1,0,0,0,0,0,0,0,Labasa,32.24,1975000.0,no
+186,Bracilette Caye Parcel,48,Belize,18.050235,-87.943025,1,1,0,0,1,0,0,0,0,0,0,0,0,San Pedro,9.4,1950000.0,no
+187,Davuilau Island,54,Fiji,-16.980218292493,177.32736251393,1,1,0,0,1,0,0,0,0,0,0,0,0,Ba,44.6,1900000.0,no
+188,Water Foot Caye,3,Belize,16.984224399346,-88.09775660084603,0,1,1,0,0,1,0,0,0,0,0,0,0,Dangriga,9.0,1900000.0,no
+189,Big Strand Island,45,United States of America,48.06686273230601,-92.960222389502,1,0,1,0,0,0,0,0,1,0,0,0,0,Rainy River District,36.63,1900000.0,no
+190,Black Island,17,United States of America,31.363210625673,-81.406552313153,1,1,1,0,0,1,0,0,0,0,0,0,0,Darien,1.69,1900000.0,no
+191,Veterans Key,29,United States of America,24.851059647826,-80.744480801189,1,1,0,0,0,0,0,0,0,0,0,0,0,Islamorada,8.89,1900000.0,no
+192,Lamb Island,1,Canada,49.54908770780501,-123.76579320184999,0,1,1,0,0,1,0,0,0,0,0,0,0,Sechelt,5.12,1891032.92,no
+193,Cistern Cay,82,Bahamas,25.776362399999996,-77.886746,1,1,1,0,0,0,0,0,0,0,0,0,0,San Andros,50.08,1865000.0,no
+194,Isla Gallina,22,Panama,8.4541912630456,-78.93070394140601,1,1,0,0,1,0,0,0,0,0,0,0,0,San Miguel,0.46,1850000.0,no
+195,40-Acre Private Island Near Placencia,40,Belize,16.426285671782,-88.429665816052,1,1,0,0,0,0,0,0,0,0,0,0,0,Placencia,7.38,1800000.0,no
+196,Ilha de Sao Joao,5,Brazil,-23.053526241279997,-44.333589076996,0,1,0,0,0,1,0,1,0,0,0,0,0,Angra dos Reis,3.38,1800000.0,no
+197,Abacos Islands Home,3,Bahamas,26.548263254370003,-77.024316425629,0,0,1,0,1,1,0,1,0,0,0,0,0,Marsh Harbour,2.48,1800000.0,no
+198,Lobreau Island,3,Canada,44.749797095913,-78.206546871814,0,0,0,0,0,0,0,0,0,0,0,0,0,Lakefield,22.06,1789632.99,no
+199,Manatee Caye,5,Belize,17.4535302,-88.065339,0,1,0,0,0,0,0,0,0,0,0,0,0,Belize City,9.28,1750000.0,no
+200,Sturdivant Island,3,United States of America,43.74147,-70.181437,0,1,1,0,0,1,0,0,0,1,0,0,0,Falmouth Foreside,1.4,1750000.0,no
+201,Pimlico Island,55,Bahamas,25.348361242617997,-76.85772906499001,1,1,0,0,0,0,0,0,0,0,0,0,0,Spanish Wells,14.93,1695000.0,no
+202,West Ballenas Island,100,Canada,49.346343299999994,-124.1578126,1,1,0,0,0,0,0,0,0,0,0,0,0,Fairwinds,5.05,1683692.77,no
+203,Ustica Island Property,7,Italy,38.7031179,13.168267499999999,0,1,1,0,0,1,0,0,0,0,0,0,0,Ustica,1.41,1673360.11,no
+204,265 Acre Private Island,3,Belize,16.489544008857994,-88.39318777345,0,1,0,0,0,0,0,0,0,0,0,0,0,Placencia,2.46,1650000.0,no
+205,Isla Lacao,206,Chile,-41.80833300000001,-73.618889,1,1,0,0,1,0,0,0,0,0,0,0,0,Ancud,11.03,1600000.0,no
+206,Tinabian Island,99,Philippines,12.935941730154,121.70809903125,1,1,0,0,1,0,0,0,0,0,0,0,0,Tambong,15.17,1600000.0,no
+207,Paces Mill Island,45,United States of America,35.806885,-79.180849,1,0,0,0,0,0,0,0,0,0,0,1,0,Fearrington Village,5.08,1600000.0,no
+208,Harris Island,1,United States of America,57.03529399999999,-135.277586,0,1,1,0,0,1,0,0,0,0,0,0,0,Sitka,2.35,1600000.0,no
+209,Double Bay Islands,1,Honduras,16.093263342026,-86.932478049219,0,1,1,0,1,1,0,0,0,0,0,0,0,Utila,0.5,1590000.0,no
+210,Carmichael Island,13,Canada,49.7,-94.50399999999999,0,0,0,0,0,0,0,0,1,1,0,0,0,Kenora,4.7,1589103.29,no
+211,Delhaven Island,16,Canada,45.22088820000001,-80.1953245,0,0,0,0,0,0,0,0,1,0,0,0,0,Parry Sound,11.7,1588346.58,no
+212,Quoin Island,12,Australia,-23.812112657318,151.28632915344,0,1,0,0,1,0,0,0,0,0,0,0,0,Barney Point,2.8,1517220.45,no
+213,Go Home Bay,4,Canada,44.984704690583,-79.943111293054,0,0,1,0,0,1,0,0,1,0,0,0,0,Midland,16.48,1512674.99,no
+214,Halibut Island,10,Canada,48.6203309,-123.27305590000002,0,1,0,0,0,0,0,0,0,0,0,0,0,North Saanich,7.4,1509648.13,no
+215,Goffatt Island,11,Canada,44.574274,-79.357046,0,0,0,0,0,0,0,0,0,0,0,0,0,Orillia,3.93,1504351.12,no
+216,Ninth Island,40,Australia,-40.8341575,147.270239,1,1,0,0,0,0,0,0,0,0,0,0,0,Bridport,13.13,1502048.25,no
+217,"Hawks Nest Cay, Cat Island",42,Bahamas,24.142641977904,-75.52117790646999,1,1,0,0,1,0,0,0,0,0,0,0,1,Arthur’s Town,34.47,1500000.0,no
+218,La Sistina,1730,Argentina,-36.971106094021,-62.445041784351,1,0,1,0,0,1,0,0,1,0,0,0,1,Guaminí,3.29,1500000.0,no
+219,Prevost Island Lots,10,Canada,48.831924503132,-123.39888696523,0,1,1,0,0,1,0,0,0,0,0,0,0,Salt Spring Island,4.27,1500000.0,no
+220,Pedro Island,3,Belize,18.103482227499,-87.970378023804,0,1,0,0,1,0,0,0,0,0,0,0,0,San Pedro,12.96,1500000.0,no
+221,Exclusive Resort on Lake of the Woods,2,Canada,49.0609997,-94.847543,0,0,1,0,0,1,0,0,1,0,0,0,0,Lake of the Woods County,20.24,1500000.0,no
+222,Legacy Island,14,United States of America,26.743524100000005,-81.492707523804,0,0,1,0,0,1,0,0,0,0,1,1,0,LaBelle,3.58,1500000.0,no
+223,Jewfish Key,1,United States of America,27.442697244986,-82.679287457672,0,1,1,0,1,1,0,0,0,0,0,0,0,Cortez,1.88,1500000.0,no
+224,Green Paradise Island,32,Philippines,10.2418,119.32700000000001,1,1,0,0,1,0,0,0,0,0,0,0,0,Roxas,5.64,1500000.0,no
+225,Nsonga Island,149,Uganda,-0.021633096094549,32.348887884008,1,0,1,0,1,0,0,0,1,0,0,0,0,Entebbe,10.51,1500000.0,no
+226,Deer Island,90,United States of America,29.235796999999998,-83.079014,1,1,0,0,1,0,0,0,0,0,0,0,0,Levy County,17.8,1499999.0,no
+227,Eagle Island,6,United States of America,47.893065494961995,-92.421407850601,0,0,1,0,0,1,0,0,1,0,0,0,0,Saint Louis County,21.03,1495000.0,no
+228,Dunsmuir Island,5,Canada,48.992209278232004,-123.79240036011002,0,1,1,0,0,0,0,0,0,0,0,0,0,Ladysmith,1.12,1490000.0,no
+229,Zopango Island,2,Nicaragua,11.884424943680001,-85.901628746033,0,0,0,0,0,1,0,1,1,0,0,0,0,Granada,4.84,1490000.0,no
+230,Richardson Island,10,Canada,46.14529870000001,-79.57408670000002,0,0,1,0,0,1,0,0,1,1,0,0,0,North Bay,12.92,1475595.91,no
+231,Archipelago Resorts,1,Philippines,12.062152000000001,119.877113,1,1,0,0,1,0,0,0,0,0,0,0,0,Panlaitan,4.38,1450000.0,no
+232,Oulton's Island,211,Canada,46.788461299999994,-64.045517,1,1,0,0,0,0,0,0,0,0,0,0,0,Alberton,2.18,1450000.0,no
+233,Navy's Acre Island,2,Canada,45.22601468298601,-80.189060662537,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,11.23,1437760.12,no
+234,Kokomo Property,3,United Kingdom,18.46314011575,-64.536451659277,0,1,1,0,1,1,0,0,0,0,0,0,0,Saint Paul’s,133.55,1400000.0,no
+235,Invernairn on Mowat Island,25,Canada,45.365461529733,-80.139771448071,0,0,1,1,0,1,0,0,1,1,1,0,0,Parry Sound,5.23,1399924.33,no
+236,Watch Island,1,United States of America,44.250363142674,-76.153804305557,0,0,1,0,0,1,0,0,0,0,0,1,0,Clayton,3.45,1399000.0,no
+237,Half Crown Island,4,Canada,46.084811,-75.84819300000002,0,0,1,0,0,1,0,0,1,0,1,0,0,Saint-Raphaël,13.96,1362088.54,no
+238,Cayo Theana,7,Belize,16.515966717549,-88.379454772583,0,1,0,0,0,0,0,0,0,0,0,0,0,Placencia,0.87,1350000.0,no
+239,Ilha do Magalhaes,1,Brazil,-27.406452605391003,-48.558183597553,0,1,1,0,0,1,0,0,0,0,0,0,0,Governador Celso Ramos,2.7,1350000.0,no
+240,Third Cay,4,Bahamas,25.502743932266,-76.633879438623,0,1,0,0,1,0,0,0,0,0,0,0,0,Dunmore Town,0.16,1350000.0,no
+241,xAngel Islandx,11,United States of America,46.299860319006996,-86.7694623023,0,0,1,0,0,1,0,0,1,0,0,0,0,Munising,9.59,1350000.0,no
+242,Ile Parisienne,114,Canada,46.653494,-84.712948,1,0,0,0,0,0,0,0,1,1,0,0,0,Sault Ste. Marie,20.36,1300000.0,no
+243,Ilha de Itaoquinha,2,Brazil,-22.773888352059004,-43.073350764865,0,1,1,0,0,1,0,0,0,0,0,0,0,São Gonçalo,3.87,1300000.0,no
+244,Zuna Island,1,Australia,-10.7196645,142.2921816,0,1,1,0,1,0,0,0,0,0,0,0,0,Thursday Island,10.68,1300000.0,no
+245,Huckleberry Island Property,3,Canada,44.301361668793,-76.151198345894,0,0,1,0,1,1,0,0,1,0,0,0,0,Gananoque,2.33,1290000.0,no
+246,Isle of Rest,1,Canada,45.227732399999994,-80.1915862,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,11.23,1282633.37,no
+247,Arthur Island,4,Canada,44.9309025,-79.8864,0,0,1,1,0,1,0,0,1,1,0,0,0,Midland,12.49,1267499.05,no
+248,Royal Sunset Island Resort,9,Tonga,-21.056082,-175.2575066,1,1,1,0,1,1,0,0,0,0,0,0,0,Nuku‘alofa,6.78,1265000.0,no
+249,Camanga Island,75,Philippines,12.298514891194,120.26161098280001,1,1,0,0,1,0,0,0,0,0,0,0,0,Coron,21.08,1257267.47,no
+250,Long Point Island,56,United States of America,36.399231177841,-75.95590125501799,1,1,0,0,1,0,0,0,0,0,0,0,0,Currituck County,2.45,1250000.0,no
+251,Saints Bay Island,6,Brazil,-12.831019634433,-38.83541978623,0,1,1,0,1,1,0,0,0,0,0,0,0,Salinas da Margarida,6.41,1240310.08,no
+252,Palette Island,5,Canada,48.536789299999995,-88.9013806,0,0,1,1,0,1,0,0,1,0,0,0,0,Thunder Bay,19.23,1210745.37,no
+253,McLaren Island,2,Canada,45.276379806297996,-80.094785678821,0,0,1,0,0,1,0,0,1,0,0,0,0,Parry Sound,5.69,1210745.37,no
+254,Ireson Island Lodge,43,Canada,46.091203,-81.78825,1,0,0,0,0,1,0,0,1,0,1,0,0,Little Current,10.13,1210745.37,no
+255,Trophy Island,19,United States of America,59.469152568793,-154.58169651855,0,0,1,0,0,1,0,0,1,1,0,0,0,Anchor Point,98.41,1200000.0,no
+256,Hatobanari Island,2,Japan,24.4188889,123.82111110000001,0,1,0,0,1,0,0,0,0,0,0,0,0,Ishigaki,21.76,1200000.0,no
+257,Punta Entrada,15,Panama,8.0751695249186,-81.736538936279,0,1,0,0,1,0,0,0,0,0,0,0,0,Distrito de Tolé,9.51,1200000.0,no
+258,Isla Tortuga,309,Chile,-40.702163464535,-73.802088015625,1,1,0,0,1,0,0,0,0,0,0,0,0,Osorno,36.16,1200000.0,no
+259,Manchee Island,5,Canada,45.170669399999994,-80.100059,0,0,1,0,0,1,1,0,1,1,0,0,0,Parry Sound,12.61,1195611.05,no
+260,Katinka Island,5,United States of America,46.208000300771,-89.78754569469,0,0,1,0,0,1,0,0,1,0,0,0,0,Vilas County,16.9,1195000.0,no
+261,Trstenik Island,4,Croatia,42.914005109239,16.675436569824,0,1,1,0,0,0,0,0,0,0,1,0,0,Vela Luka,4.16,1171352.07,no
+262,Yacht Club Island,2,Canada,49.742582393833,-94.51807510185199,0,0,1,0,0,1,0,0,1,1,0,0,0,Kenora,2.13,1131290.2,no
+263,The Pines Island,28,Canada,45.232963,-80.1845614,0,0,0,0,0,0,0,0,1,1,0,0,0,Parry Sound,10.73,1131290.2,no
+264,Whipperwill North Island,4,Canada,45.337179425998,-80.293198745972,0,0,1,0,0,1,0,0,1,1,0,0,0,Parry Sound,12.55,1131290.2,no
+265,Twin Pines on Mowat Island,12,Canada,45.365401226592,-80.14895533173801,0,0,1,0,0,1,0,0,1,1,1,0,1,Parry Sound,5.66,1119939.46,no
+266,Goring Bogue Caye,6,Belize,17.422141261106994,-88.069838432983,0,1,0,0,1,0,0,0,0,0,0,0,0,Belize City,9.97,1100000.0,no
+267,White Cloud Island,36,Canada,44.8369732,-80.9741642,1,0,0,0,1,0,0,0,1,0,0,0,0,Owen Sound,18.7,1100000.0,no
+268,Jewfish Key Beachfront Lot,1,United States of America,27.443838324341,-82.680768176599,0,1,0,0,1,0,0,0,0,0,0,0,0,Cortez,1.78,1100000.0,no
+269,Ilha de Pioca,215,Brazil,-12.636634159818001,-38.704906015869,1,1,0,0,0,0,0,0,0,0,0,0,0,São Francisco do Conde,4.86,1100000.0,no
+270,Everglades Escape,80,United States of America,25.913041694776002,-80.818531846558,1,0,1,0,0,1,0,0,0,0,0,0,0,Monroe County,25.33,1100000.0,no
+271,Jelina Island,7,Canada,49.513933095533,-124.30686217853999,0,1,0,0,0,0,0,0,0,0,0,0,0,French Creek,12.13,1097237.99,no
+272,Davis Island,10,Canada,45.28811694332301,-80.278564462891,0,0,0,1,0,0,0,0,1,1,0,0,0,Parry Sound,12.51,1059402.19,no
+273,Lily Island,8,Canada,49.15634402842,-123.69874060831002,0,1,0,0,0,0,0,0,0,0,0,0,0,Cedar,7.49,1055618.62,no
+274,Isla Milagrosa,12,Philippines,8.6487888254014,123.49008915063,0,1,1,0,0,0,0,0,0,0,0,0,0,Sibutao,3.96,1033484.91,no
+275,3-acre Parcel on Long Island,3,Bahamas,23.467654,-75.223302958167,0,1,0,0,1,0,1,0,0,0,1,0,0,Clarence Town,29.62,1000000.0,no
+276,Chatuge Island,4,United States of America,34.967576084666,-83.750873426056,0,0,0,1,0,0,0,0,1,0,0,0,0,Towns County,3.6,1000000.0,no
+277,Yellow Rock Island,330,Australia,-30.481336758249,153.02589741948,1,1,0,0,1,0,1,0,0,0,0,0,0,Urunga,1.29,1000000.0,no
+278,Hõra Island,60,Estonia,58.900430263608,23.064079284668,1,1,0,0,0,0,0,0,0,0,1,0,0,Kärdla,13.08,999000.0,no
+279,Heather Island,157,United States of America,27.050070299999998,-81.9874,0,0,0,0,0,0,0,0,0,0,0,0,0,Harbour Heights,4.19,999000.0,no
+280,Clark Island,176,United States of America,29.239357309115,-83.055634328003,1,0,0,0,0,0,0,0,0,0,0,1,0,Levy County,16.37,997500.0,no
+281,Major Island,412,Canada,46.446519096317,-75.53718957128899,1,0,0,0,0,0,0,0,1,0,0,0,1,Mont-Laurier,7.38,996235.0,no
+282,Blue Hole Cay,12,Bahamas,24.205637077584,-77.609825134277,0,1,1,0,1,0,0,0,0,0,0,0,0,Andros Town,35.93,995000.0,no
+283,Treetop Island,4,United States of America,42.378175537238995,-88.189944082803,0,0,1,1,0,1,0,0,1,0,0,0,0,Fox Lake,1.32,995000.0,no
+284,Fort Montgomery Island,94,United States of America,45.006261,-73.34961899999998,1,0,0,0,0,0,0,0,1,0,1,0,0,Rouses Point,1.13,995000.0,no
+285,Coco Plum Cay,5,Honduras,16.422238403904,-86.190936080518,0,1,1,0,1,0,0,0,0,0,0,0,0,José Santos Guardiola,7.65,990000.0,no
+286,Golfo Dulce Island Property,32,Costa Rica,8.5954379818793,-83.17390429339599,1,1,1,0,1,1,0,0,0,0,0,0,0,Golfito,3.7,980000.0,no
+287,Luella Island,1,Canada,45.094632891836994,-79.513283081476,0,0,1,1,0,1,0,0,1,1,0,0,0,Bracebridge,10.5,979947.03,no
+288,Humphrey Island,17,United States of America,45.271943088414,-94.02734762485399,1,0,0,0,0,0,0,0,1,0,0,0,0,Maple Lake,3.21,975000.0,no
+289,Basin Island,26,United States of America,44.871577447949,-87.517389272491,0,0,0,0,0,0,0,0,0,0,0,0,0,Sturgeon Bay,7.34,950000.0,no
+290,5003 THOMPSON LANE SE,4,United States of America,47.002125899999996,-122.72006,0,0,1,0,0,1,0,0,1,0,0,0,0,Tanglewilde-Thompson Place,4.43,950000.0,no
+291,Yauchler Island,5,United States of America,42.828613,-74.124566,0,0,1,0,0,1,0,0,1,0,0,0,0,Schenectady County,3.42,949900.0,no
+292,Marakorako Island,8,France,-14.4028975,-145.958135,0,1,1,0,1,1,0,0,0,0,0,0,0,Avarua,1022.54,949684.0,no
+293,Hanhisaari Island,21,Finland,62.303496499999994,28.3219673,1,0,0,0,0,0,0,0,1,0,0,0,0,Kangaslampi,2.28,948237.39,no
+294,Jumbo Island,12,Canada,45.1584299,-80.1357846,0,0,1,0,0,1,0,0,1,0,0,0,0,Parry Sound,13.94,945894.82,no
+295,Shore Island,30,Ireland,52.692777799999995,-9.055833300000002,1,1,0,0,0,0,0,0,0,0,0,0,0,Askeaton,7.26,920348.06,no
+296,MacLean Island,16,Canada,45.329802095252,-80.221056832788,0,0,1,0,0,1,0,0,1,0,0,0,0,Parry Sound,9.1,908059.02,no
+297,Guilihan Island,3,Philippines,9.719752,126.074347,0,1,1,0,1,0,0,0,0,0,0,0,0,Dapa,3.1,900000.0,no
+298,Tsuga Island,17,United States of America,44.887880828666,-69.26748524501299,0,0,1,0,0,1,0,0,1,0,0,0,0,Corinna,2.32,899000.0,no
+299,Bells Island,62,United States of America,34.732495604957,-76.50145020104999,1,1,0,0,1,0,0,0,0,0,0,0,0,Harkers Island,4.18,895000.0,no
+300,Île Québec,64,Canada,46.382059088512,-75.11697979895,0,0,0,0,0,0,0,0,1,0,0,0,0,Rivière-Rouge,12.2,895000.0,no
+301,Dutra's Island,4,United States of America,38.030367290976,-121.5806391749,0,0,0,0,0,0,0,0,0,0,0,0,0,Bethel Island,3.43,895000.0,no
+302,"Deep Water Cay, Grand Bahama",91,Bahamas,26.630939548199,-77.921202798981,1,1,1,0,1,1,1,0,0,0,0,0,0,High Rock,22.13,885000.0,no
+303,Indigo Point,4,United Kingdom,18.457603957689,-64.537910780982,0,1,0,0,1,0,0,0,0,0,0,0,0,Saint Paul’s,133.42,875000.0,no
+304,Bareneck Island,15,United States of America,43.884565966581,-69.738103797607,0,0,1,0,0,1,0,0,1,0,0,1,0,Woolwich,3.93,875000.0,no
+305,Brown Island,48,United States of America,45.2861258,-83.4799804,1,0,1,0,0,1,0,0,1,0,0,0,0,Alpena County,15.41,874900.0,no
+306,Amazon Resort Island,27,Brazil,-3.5941667,-60.026944444399994,0,0,0,0,0,1,0,0,1,1,1,0,0,Iranduba,24.03,850000.0,no
+307,Molono Island,4,Vanuatu,-15.379312774165001,167.19659552936,0,0,1,0,1,1,0,0,1,0,0,0,0,Luganville,9.98,825000.0,no
+308,Soldier Caye,5,Belize,17.324795503682,-87.788872642853,0,1,0,0,1,0,1,0,0,0,0,0,0,Belize City,29.52,800000.0,no
+309,Arrow Head Caye,4,Belize,17.476612563636,-88.07131901235901,0,1,0,0,0,0,0,0,0,0,0,0,0,Belize City,8.47,800000.0,no
+310,Green Bay Island,15,Philippines,10.257558705102,119.36837046627,0,1,1,0,1,0,0,0,0,0,0,0,0,Roxas,4.69,800000.0,no
+311,Bonefish Cay,6,Bahamas,24.314932631698,-77.824013893542,0,1,0,0,1,0,0,0,0,0,0,0,0,Andros Town,27.17,795000.0,no
+312,Horse Island (Massachusetts),3,United States of America,42.2384343,-70.774486,0,0,0,0,0,0,0,0,0,0,0,1,0,North Scituate,1.46,750000.0,no
+313,Namaste Island,8,United States of America,44.691832237258,-85.710048185181,0,0,1,0,0,1,0,0,1,0,0,0,0,Traverse City,6.59,749000.0,no
+314,Namakan Lake Island,2,Canada,48.445390595393,-92.687553947885,0,0,1,0,0,1,0,0,1,0,0,0,0,Rainy River District,9.37,749000.0,no
+315,Hunter's Island,7,Canada,45.934466604797,-66.161521020996,0,0,1,0,0,1,0,0,1,1,0,0,0,Oromocto,16.75,745365.12,no
+316,Tibbett Island,3,Canada,45.2399277,-80.1984423,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,10.86,737797.96,no
+317,Crichton Island,100,Canada,45.5080283,-61.095695299999996,1,1,1,0,0,0,0,0,0,1,0,0,0,Port Hawkesbury,14.36,737797.96,no
+318,Turquoise Caye,5,Belize,18.107407078176,-87.966627408618,0,1,0,0,0,0,0,0,0,0,0,0,0,San Pedro,13.23,725000.0,no
+319,Oullette Island,20,Canada,46.556399,-75.364071,0,0,1,0,0,1,0,0,1,1,0,0,0,Mont-Laurier,6.44,718880.06,no
+320,Wah Wah Taysee Property,9,Canada,45.07520782771,-80.065739160449,0,0,1,0,0,1,0,0,1,0,0,0,0,Parry Sound,18.86,718804.39,no
+321,Cow and Calf Islands,60,Canada,45.797456210882,-61.048890626715,1,0,0,0,0,0,0,0,1,1,0,0,0,Princeville,12.21,711312.9,no
+322,Cayo Frenchman,7,Nicaragua,11.737861687567001,-83.61207796922301,0,1,1,0,0,1,0,0,0,0,0,0,0,Bluefields,21.63,700000.0,no
+323,Golding Cay,3,Bahamas,25.529912486363,-76.85076353904,0,1,0,0,1,0,0,0,0,0,0,0,0,Spanish Wells,5.54,700000.0,no
+324,Big Trout Island 2,46,United States of America,46.055793737177,-83.852953161902,1,0,1,0,0,1,0,0,1,0,0,0,0,Thessalon,19.18,699000.0,no
+325,Isla Leo,2,Panama,9.5767085167031,-79.34258107602,0,1,1,0,1,1,0,0,0,0,0,0,0,Distrito de Santa Isabel,6.69,699000.0,no
+326,Beulah Island,3,Canada,45.222175299999996,-80.1811575,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,11.18,673477.11,no
+327,Fantasy Guyisland,3,United States of America,45.711388,-94.22299100000001,0,0,0,0,1,0,0,0,0,0,0,1,0,Rice,2.8,669000.0,no
+328,31 Mile Lake,25,Canada,46.164404519903,-75.806410644922,1,0,1,0,0,1,0,0,1,0,0,0,0,Saint-Raphaël,11.64,665000.0,no
+329,Bachelor Island,4,United States of America,34.712632943113,-76.522873342037,0,1,1,0,1,1,0,0,0,0,0,0,0,Harkers Island,2.4,650000.0,no
+330,Sandpoint Lake Island,2,United States of America,48.40720968791,-92.451170015283,0,0,1,0,0,1,0,0,1,0,0,0,0,Rainy River District,6.78,640000.0,no
+331,Lizard Island,76,Canada,47.412112995635994,-84.81977529626502,1,0,0,0,1,0,0,0,1,0,0,0,0,Algoma,37.43,605372.68,no
+332,West Snake Caye,9,Belize,16.191335850014,-88.57158938921499,0,1,0,0,1,0,0,0,0,0,0,0,0,Punta Gorda,17.06,600000.0,no
+333,Pine Island,2,United States of America,47.621050953776,-93.349835593146,0,0,1,0,0,1,0,0,1,0,0,0,0,Itasca County,15.25,600000.0,no
+334,Eagles Nest Island,20,United States of America,46.233751,-89.400666,1,0,0,0,0,0,0,0,1,0,0,0,0,Vilas County,13.64,599000.0,no
+335,Deep Blue Water Caye,2,Belize,16.81370091781001,-88.142833137512,0,1,0,0,0,0,0,0,0,0,0,0,0,Dangriga,12.32,598000.0,no
+336,Private Island at Big Narrows,9,Canada,49.52228399646,-94.72275185920401,0,0,1,0,0,1,0,0,1,1,0,0,0,Kenora,19.89,595000.0,no
+337,Duval Island,5,Canada,46.323902318257,-84.0854061021,0,0,0,0,0,1,0,0,1,0,0,0,1,Sault Ste. Marie,17.13,595000.0,no
+338,Sunset Key,5,United States of America,28.174881,-82.79256099999998,0,1,0,0,0,0,0,0,0,0,0,0,0,Key Vista,1.92,595000.0,no
+339,Bearberry Island,3,United States of America,47.46869,-88.100378,0,0,1,0,0,1,0,0,1,0,0,0,0,Keweenaw County,13.85,595000.0,no
+340,Hudson River Island,84,United States of America,43.271436791847,-73.666183252887,1,0,0,1,0,0,0,0,0,0,0,1,0,West Glens Falls,2.17,595000.0,no
+341,Coquina Key,1,United States of America,28.175594378305,-82.794281411551,0,1,0,0,0,0,0,0,0,0,0,0,0,Key Vista,1.97,595000.0,no
+342,Horseshoe Island,5,Canada,45.521219962072,-80.466062877924,0,0,0,0,0,0,0,0,1,1,0,0,0,Parry Sound,24.1,594021.94,no
+343,xShore Islandx,2,Canada,49.545609490633,-94.372200376843,0,0,1,0,0,1,0,0,1,1,0,0,0,Kenora,16.2,586454.79,no
+344,South Benjamin Island,5,Canada,46.08434000000001,-82.25571,0,0,0,0,0,1,0,0,1,1,0,0,0,Little Current,17.45,567461.22,no
+345,Eugley Island,0,United States of America,43.997157770840005,-69.365959104755,0,0,1,0,0,0,0,0,0,0,0,0,1,Friendship,1.84,544000.0,no
+346,Lake Winter Island,5,United States of America,45.811293312835,-90.98681996826201,0,0,1,0,0,1,0,0,1,0,0,0,0,Sawyer County,8.96,539500.0,no
+347,Shadynook Cottage,2,Canada,45.170467510655,-80.103496043239,0,0,0,0,0,0,0,0,0,0,0,0,0,Parry Sound,12.66,528944.38,no
+348,Black Sturgeon Island,11,Canada,49.872,-94.45,0,0,1,0,0,1,0,0,1,1,0,0,0,Kenora,7.44,525917.52,no
+349,Burts Island,5,Canada,48.818768967672995,-125.15112641716001,0,1,0,0,0,0,0,0,0,0,0,0,0,Ucluelet,19.86,525917.52,no
+350,Isle of Navaro,9,Panama,9.2384858128759,-82.222012731491,0,1,1,0,0,0,0,0,0,0,0,0,0,Bocas del Toro,7.17,500000.0,no
+351,Ormond By the Sea,1,United States of America,29.426010820628,-81.108991814819,0,1,0,0,0,0,0,0,0,0,0,0,0,Flagler Beach,3.55,500000.0,no
+352,Kidney Island,6,United States of America,46.408818223109996,-90.2384748435,0,0,1,0,0,1,0,0,1,0,0,0,0,Hurley,3.75,499900.0,no
+353,Opal Caye,5,Belize,16.500319896401994,-88.286894647113,0,1,0,0,1,0,0,0,0,0,0,0,0,Placencia,5.36,499000.0,no
+354,Private Island South,7,Canada,49.44576286664,-94.75484595644501,0,0,0,0,0,0,0,0,1,1,0,0,0,Kenora,25.19,499000.0,no
+355,"43-Acre Island off Riversdale, Placencia",4,Belize,16.678434852162002,-88.189297572723,0,1,0,0,0,0,0,0,0,0,0,0,0,Placencia,16.32,499000.0,no
+356,Virginia Caye,4,Belize,16.797079744115,-88.155287660956,0,1,1,0,1,1,0,0,0,0,0,0,0,Dangriga,12.99,499000.0,no
+357,Angel's Nest,4,United States of America,26.518790999999997,-82.11927,0,0,0,0,0,0,0,0,0,0,0,0,0,Saint James City,2.92,495000.0,no
+358,Heli Island Retreat,7,Canada,46.216416358081,-79.425575954309,0,0,1,0,0,1,0,0,1,1,0,0,0,North Bay,7.2,491108.59,no
+359,Johnson Island Alderson,36,United States of America,37.726818286747,-80.652204400911,1,0,1,0,0,1,0,0,0,1,1,1,0,Alderson,0.56,490444.0,no
+360,Atcheson Island,1,Canada,46.08381729999999,-79.7780132,0,0,1,0,0,1,0,0,1,1,0,0,0,North Bay,21.94,488081.73,no
+361,Connington Island,6,Canada,44.47914110037,-63.788719503180005,0,1,0,1,0,0,0,0,0,0,0,0,1,Halifax,15.7,485000.0,no
+362,Etta's Island,4,United States of America,45.109884447481,-69.169785122684,0,0,1,0,0,1,0,0,1,0,0,0,0,Garland,4.96,479500.0,no
+363,Iguana Island,5,Nicaragua,11.879639997179,-83.671492346875,0,1,1,0,0,1,0,0,0,0,0,0,0,Bluefields,11.16,475000.0,no
+364,Hartman Island,2,Canada,45.1346816,-80.076873013739,0,0,1,0,0,1,0,0,1,1,0,0,1,Parry Sound,14.83,465304.58,no
+365,Kalgin Island,5,United States of America,60.476067500000006,-151.91807,1,1,1,0,1,1,0,0,0,0,0,0,0,Kalifornsky,21.77,460000.0,no
+366,Phoebe Island,2,United States of America,45.265029339485,-69.194745560545,0,0,1,0,0,1,0,0,1,1,0,0,1,Dover-Foxcroft,5.85,459000.0,no
+367,Freedrinks Island,9,Canada,45.8637741,-80.6180282,0,0,1,0,0,1,0,0,1,1,0,0,0,Parry Sound District,38.62,453272.8,no
+368,Saddle Caye 219,2,Belize,16.688594068143,-88.170110931616,0,1,0,0,0,0,0,0,0,0,0,0,0,Placencia,17.73,450000.0,no
+369,Farolan Island,0,Philippines,10.511453803001,122.49026415638001,0,0,0,0,0,0,0,0,0,0,0,0,0,Nueva Valencia,2.8,450000.0,no
+370,Howard Island,2,United States of America,46.033126531118,-83.754128634393,0,0,1,0,0,1,0,0,1,0,0,0,0,Thessalon,17.47,449000.0,no
+371,Motu Tohepuku,19,France,-16.169304653128,-144.78558769226,0,1,0,0,1,0,0,0,0,0,0,0,0,Avarua,1040.35,444995.54,no
+372,Majestic Island,1,United States of America,43.45952320713101,-88.870159994443,0,0,1,0,0,1,0,0,1,0,0,0,0,Beaver Dam,1.65,429000.0,no
+373,Maple Island,38,Canada,43.818881756539,-66.000594828369,1,0,1,0,0,1,0,0,0,0,0,1,0,Yarmouth,5.82,425000.0,no
+374,Rothwells Island,1,Canada,44.826915,-76.1771,0,0,1,0,0,1,0,0,1,0,1,0,0,Perth,6.17,419000.0,no
+375,Isla Carabana Sol,0,Panama,9.245485199866,-82.241268697623,0,0,1,0,0,1,0,0,0,0,0,0,0,Bocas del Toro,6.55,403000.0,no
+376,McKelvey Island,11,Canada,54.6920308,-125.2333216,1,0,1,0,0,1,0,0,1,0,0,0,0,Burns Lake,38.33,400000.0,no
+377,Butterfield Island,1,Canada,46.375766999999996,-82.93495,0,0,1,0,0,1,0,0,1,0,0,0,0,Elliot Lake,14.4,399500.0,no
+378,Salt Cay Parcels,2,Turks and Caicos,21.340551587441002,-71.200635446484,0,1,1,0,1,0,0,0,0,0,0,0,0,Luperón,101.31,399000.0,no
+379,22-Acre Peninsula on Saddle Caye,2,Belize,16.689005732287,-88.169719627231,0,1,0,0,0,0,0,0,0,0,0,0,0,Placencia,17.77,399000.0,no
+380,Hat Caye,1,Belize,17.175242341377,-87.61968766156002,0,1,0,0,1,0,0,0,0,0,0,0,0,Dangriga,42.93,399000.0,no
+381,Greer Island,5,United States of America,44.054161,-68.784542,0,1,0,0,0,0,0,0,0,0,0,0,0,Vinalhaven,2.38,395000.0,no
+382,08-Acre Island in Placencia Village,1,Belize,16.516117734175,-88.37024415795,0,0,0,0,0,0,0,0,0,0,0,0,0,Placencia,0.28,380000.0,no
+383,Jenson Island,4,Canada,49.2564487,-94.3296827,0,0,1,0,0,1,0,0,1,1,0,0,0,Kenora,36.03,378357.93,no
+384,Indian Islands,45,Canada,45.612516252606,-60.996683725287,0,1,0,0,1,0,0,0,0,0,0,0,0,Port Hawkesbury,17.01,378282.26,no
+385,Billy Goat Island,4,Canada,48.866076286792,-124.18810613486,0,0,1,0,0,0,0,0,1,0,0,0,0,Lake Cowichan,6.7,377979.57,no
+386,2630,2,Belize,16.537698908757,-88.36295402321802,0,1,0,0,1,0,0,0,0,0,0,0,0,Placencia,1.64,375000.0,no
+387,2-Acre Private Island Near Placencia,2,Belize,16.560139500663,-88.198116185999,0,1,0,0,1,0,0,0,0,0,0,0,0,Placencia,11.59,375000.0,no
+388,Bodden Caye,2,Belize,16.980237997251,-88.095487452019,0,1,0,0,0,0,0,0,0,0,0,0,0,Dangriga,9.12,375000.0,no
+389,"Bird Island, SC",1,United States of America,32.399649988038,-80.828334800928,0,1,1,0,0,0,0,0,0,0,0,0,0,Laurel Bay,4.32,375000.0,no
+390,The Enclave at Placencia Caye,2,Belize,16.511133800000003,-88.36005420000002,0,1,1,0,0,1,0,0,0,0,0,0,0,Placencia,0.47,372000.0,no
+391,Craig Island,12,Canada,49.558224767849,-94.429724924512,0,0,0,0,0,0,0,0,0,0,0,0,0,Kenora,14.7,370034.05,no
+392,Wild Cane Key,3,Panama,9.350536305084999,-82.16832671892399,0,1,0,0,0,0,0,0,0,0,0,0,0,Isla Bastimentos,4.23,360000.0,no
+393,Frypan Island,7,Canada,50.08497420248801,-91.925728719604,0,0,1,1,0,1,0,0,1,1,0,0,0,Dryden,42.18,359440.03,no
+394,Saddle Caye 59,6,Belize,16.686045371501994,-88.171055069189,0,0,0,0,0,0,0,0,0,0,0,0,0,Placencia,17.56,350000.0,no
+395,"Bocal Island, Nicaragua",3,Nicaragua,11.577474873935001,-83.64865257135,0,1,1,0,0,0,0,0,0,0,0,0,0,Bluefields,31.12,350000.0,no
+396,Sunset Island,0,Belize,17.931717283266995,-87.978750164154,0,0,0,0,0,0,0,0,0,0,0,0,0,San Pedro,1.38,350000.0,no
+397,Quiana Island,6,United States of America,57.001799820595,-135.30143311905002,0,1,1,0,0,1,0,0,0,0,0,0,0,Sitka,3.72,350000.0,no
+398,Fairy Island,1,United States of America,42.801781,-88.428177,0,0,1,0,0,1,0,0,1,0,0,0,0,East Troy,1.63,350000.0,no
+399,Mowat Island L-727,14,Canada,45.3676324,-80.1499853,0,0,0,0,0,0,0,0,1,1,0,0,0,Parry Sound,5.74,301929.63,no
+400,Deo Gratia,3,Canada,45.981955,-81.232543,0,0,1,0,0,1,0,0,0,1,0,1,0,Lively,31.44,300000.0,no
+401,Bensley Island,12,Canada,46.04326500000001,-81.659104,0,0,0,0,0,0,0,0,1,0,0,0,0,Little Current,13.49,300000.0,no
+402,Deadman Caye 14 acres,1,Belize,17.196610999999994,-87.86444499999998,0,1,0,0,1,0,0,0,0,0,0,0,0,Dangriga,28.96,299000.0,no
+403,Gullah Island,3,United States of America,32.141802,-80.89379699999998,0,1,0,0,0,0,0,0,0,0,0,0,0,Bluffton,6.87,299000.0,no
+404,Stono Island,1,United States of America,32.661313452356,-79.99882145767201,0,0,0,0,0,0,0,0,0,0,0,1,0,Folly Beach,3.43,297000.0,no
+405,Lark Caye,3,Belize,16.512252451403,-88.25902113103001,0,1,0,0,1,0,0,0,0,0,0,0,0,Placencia,7.12,295000.0,no
+406,Spider Caye,1,Belize,16.534952469976,-88.090829899475,0,1,0,0,1,0,0,0,0,0,0,0,0,Placencia,18.31,275000.0,no
+407,Richards Island,30,Canada,45.241330100000006,-61.2015032,0,1,1,0,0,1,0,0,0,1,0,0,0,Port Hawkesbury,26.91,274500.0,no
+408,Moshers Island,96,Canada,44.236324152171,-64.33146861376899,1,1,0,0,0,0,0,0,0,1,0,0,0,Lunenburg,9.85,265000.0,no
+409,Motu Matatahi,2,France,-15.145702664295001,-147.91322704136005,0,1,0,0,1,0,0,0,0,0,0,0,0,Avarua,883.65,261761.49,no
+410,Long Caye Island Property,0,Belize,17.219436770780998,-87.592865971411,0,1,1,0,0,0,0,0,0,0,0,0,0,Belize City,44.32,254000.0,no
+411,xBlack Islandx,20,Canada,45.950318975403995,-60.520838773535004,0,0,0,0,0,0,0,0,1,1,0,0,0,Eskasoni 3,4.59,245932.65,no
+412,Lizzies Cove Island,7,Canada,52.086326434147,-128.08128379231002,0,1,0,0,0,0,0,0,0,0,0,0,0,Central Coast Regional District,46.06,229000.0,no
+413,Middle Island,38,Canada,44.120651423222,-64.526073626984,0,1,0,0,0,0,0,0,0,1,0,0,0,Bridgewater,17.82,227014.76,no
+414,Harbour Island,2,Canada,44.816385,-62.97359399999999,0,0,1,0,0,1,0,0,1,0,0,0,0,Lake Echo,20.83,208096.86,no
+415,No Mans Island,19,United States of America,39.016389118995,-74.817409947485,1,0,0,0,0,0,0,0,1,0,0,0,0,North Wildwood,1.46,200000.0,no
+416,El Nido Peninsula,3,Philippines,11.103552313085,119.33487376672,0,1,0,0,1,0,0,0,0,0,0,0,0,El Nido,7.02,199000.0,no
+417,Deadman Caye 699acres,1,Belize,17.193085237303,-87.866504936523,0,1,0,0,1,0,0,0,0,0,0,0,0,Dangriga,28.71,199000.0,no
+418,Angus Island,15,Canada,44.84903185974,-62.451314597777994,0,1,0,0,1,0,0,0,0,0,0,0,1,Pictou County,45.44,190000.0,no
+419,Wee Wee Caye,2,Belize,16.76491374691,-88.142417745361,0,1,1,0,1,0,0,0,0,0,0,0,0,Dangriga,15.37,180000.0,no
+420,"1-Acre Private Island near Riversdale, Placencia",1,Belize,16.692220557469,-88.18777358803698,0,1,0,0,0,0,0,0,0,0,0,0,0,Placencia,17.07,180000.0,no
+421,Spuhn Island Lots,2,United States of America,58.341096855307,-134.65799237672,0,1,0,1,1,0,0,0,0,0,0,0,0,Juneau,9.06,169900.0,no
+422,Mannions Island,4,Ireland,51.608942603239,-9.555873645507699,0,1,0,0,0,0,0,0,0,0,0,0,0,Bantry,6.63,167336.01,no
+423,Calf Island,26,Canada,44.936121350068,-62.195835113525,0,1,0,0,0,0,0,0,0,1,0,0,0,Pictou County,43.26,166477.49,no
+424,Orchid Islands,1,Belize,17.923666464455,-87.98615195424497,0,1,0,0,0,0,0,0,0,0,0,0,0,San Pedro,1.43,165000.0,no
+425,xLong Islandx,92,Canada,46.187610599715,-60.410337697559,1,1,1,0,0,0,0,0,0,1,0,0,0,Sydney Mines,9.82,160000.0,no
+426,Cockroach Bay,10,Belize,17.496237910126,-87.783293452026,0,1,0,0,1,0,0,0,0,0,0,0,0,Belize City,27.3,150000.0,no
+427,"6-Acre Beachfront Parcel, Southern Long Caye",6,Belize,17.080390874076,-88.03664303605998,0,1,0,0,1,0,0,0,0,0,0,0,0,Dangriga,15.07,150000.0,no
+428,Deadman Caye 941 acres,1,Belize,17.194520148828,-87.865989952393,0,1,0,0,1,0,0,0,0,0,0,0,0,Dangriga,28.8,149000.0,no
+429,Waterfront Lots in the Placencia Yacht Club,0,Belize,16.51032729178,-88.36092855977198,0,0,0,0,0,0,0,0,0,0,0,0,0,Placencia,0.45,145000.0,no
+430,Leader Island,11,Canada,44.734433,-63.028543000000006,0,1,0,0,0,0,0,0,0,1,0,0,1,Lake Echo,17.35,124858.12,no
+431,La Cornelia Island,1,Nicaragua,11.909073,-85.90460999999998,0,0,0,1,0,0,0,0,1,0,0,0,0,Granada,3.76,90000.0,no
+432,Echo Island,3,Canada,43.986850153259,-65.904507208954,0,0,1,0,0,1,0,0,1,1,0,0,0,Yarmouth,14.92,90000.0,no
+433,Gillis Island,11,Canada,46.074348229792,-62.904045989627,0,0,0,0,0,0,0,0,0,0,1,1,0,Belfast,1.23,79999.0,no
+434,Hemlow Island,55,Canada,45.011709975974,-61.980101515283,1,1,0,0,0,0,0,0,0,1,0,0,0,Antigonish,41.82,74914.87,no
+435,Bone Fish Caye,0,Belize,18.203378813294,-88.0050358125,0,0,0,0,0,0,0,0,0,0,0,0,0,San Pedro,20.02,69500.0,no
+436,Big Tancook Island,12,Canada,44.459238299999996,-64.16188460000001,0,1,0,0,0,0,0,0,0,1,0,0,0,Chester,6.88,68104.43,no
+437,Half Island,6,Canada,45.588638992742005,-61.20766752825301,0,0,0,0,1,0,0,0,1,0,0,0,1,Port Hawkesbury,7.08,59023.84,no
+438,Long Caye Beachfront at The Great Blue Hole,0,Belize,17.221947501013,-87.593735007132,0,0,0,0,0,0,0,0,0,0,0,0,0,Belize City,44.2,59000.0,no
+439,Hen Island,0,Canada,41.7882995,-82.797509173541,0,0,0,0,0,0,0,0,0,0,0,0,0,Port Clinton,20.42,25700.0,no
+0,Island of Patroklos,643,Greece,37.653722572499,23.9490794021,1,1,1,1,0,0,0,0,0,0,0,0,0,Palaiá Fókaia,4.58,17816618.0,yes
+1,Kandoo Island,42,Maldives,5.852108073458401,73.336561174011,1,1,1,0,1,1,0,1,0,0,0,0,0,Manadhoo,7.92,10808912.0,yes
+2,Schulzewerder Island,21,Poland,53.455763540891,15.919064601172,1,0,1,0,0,1,0,1,1,1,1,0,0,Powiat drawski,4.25,3279418.5,yes
+3,Vouvalos Island,32,Greece,38.98634600000001,20.917405,1,1,0,0,0,0,0,0,0,0,0,0,0,Vónitsa,5.11,2764749.25,yes
+4,Windermere,0,Bahamas,25.0513819,-76.1218479,1,1,1,0,0,1,0,1,0,0,1,0,0,Arthur’s Town,40.94,11756868.0,yes
+5,Taveuni Island Resort & Spa,8,Fiji,-16.947,179.91099999999997,0,1,1,0,0,1,0,0,0,0,0,0,0,Cakaudrove Province,38.0,3290120.25,yes
+6,Vadinolhu Island Resort,19,Maldives,2.0176771675969,73.359217930025,0,1,1,0,1,0,0,0,0,0,0,0,0,Fonadhoo,16.18,7355182.0,yes
+7,Serenity Beaches Resort,8,Tonga,-19.853491117388998,-174.41237374608997,0,1,0,0,1,1,0,1,0,0,0,0,0,Pangai,4.63,5090873.0,yes
+8,Blue Dolphin Island,104,Panama,9.2416266,-82.155322,1,1,1,0,0,0,0,0,0,0,0,0,0,Isla Bastimentos,4.3,9112002.0,yes
+9,Igoigori Island,150,Papua New Guinea,-10.725911952740999,150.28970031738,1,1,0,0,1,0,0,0,0,0,0,0,0,Samarai Murua,23.6,2774424.5,yes
+10,Amillarah Private Islands,0,Maldives,4.1754959000000005,73.50934740000002,0,0,1,0,0,1,0,0,0,0,0,0,0,Male,0.02,3799415.25,yes
+11,Ngerbelas Island,21,Palau,8.043057051711099,134.69969931738,1,1,0,0,1,0,0,0,0,0,0,0,0,Koror Town,50.71,5160143.0,yes
+12,Big Scrub Island,170,United Kingdom,18.4678241,-64.5125777,1,1,1,0,1,0,0,0,0,0,0,0,0,Saint Paul’s,132.41,18542384.0,yes
+13,Lovango Cay,5,United States of America,18.3624533,-64.8037499,0,1,1,0,1,1,0,0,0,0,0,0,0,Saint Paul’s,145.31,4119699.75,yes
+14,Mustique,0,SVG,12.8799415,-61.1840188,0,1,1,0,0,1,0,0,0,0,0,0,0,Kingstown,19.25,2657643.25,yes
+15,Tojo Una Una Island,3089,Indonesia,-0.7453490893578001,121.76495264416,1,1,0,0,1,0,0,0,0,0,0,0,0,Tojo Una-Una Regency,37.21,16244280.0,yes
+16,Jost Van Dyke,0,United Kingdom,18.4462768,-64.74291310000001,0,0,1,0,0,0,0,0,0,0,0,0,0,Saint Paul’s,144.52,2262076.5,yes
+17,Steele Point,8,United Kingdom,18.389249943049,-64.717145311478,0,1,1,0,0,1,0,0,0,0,0,0,0,Saint Paul’s,141.13,4638301.5,yes
+18,Long Island,4600,United States of America,32.6843457,-79.9306445,1,0,0,0,0,0,0,0,0,0,0,1,0,Folly Beach,2.09,10005164.0,yes
+19,Ginger Island,258,United Kingdom,18.385174600000006,-64.4777837,1,1,1,0,1,0,0,0,0,0,0,0,0,Saint Paul’s,127.41,22868374.0,yes
+20,Praia do Algodão,29,Brazil,-23.005734699999998,-44.3157591,0,1,1,0,1,1,0,1,0,0,0,0,0,Angra dos Reis,0.16,2831178.0,yes
+21,Treasure Cove,75,Belize,17.492632614252994,-88.080477142334,0,1,0,0,0,0,0,0,0,0,0,0,0,Belize City,7.73,3615201.5,yes
+22,Blunder Bay Estates,1,United Kingdom,18.493905899999998,-64.4022877,0,1,1,0,1,1,0,0,0,0,0,0,0,Saint Paul’s,127.49,4320557.0,yes
+23,Waldron Island,50,United States of America,48.697965365638,-123.03004101444999,1,0,1,0,1,1,1,0,1,0,0,0,0,Friday Harbor,11.33,3989878.0,yes
+24,Mounu Island Resort,7,Tonga,-18.7512793,-174.06794509999997,0,1,0,0,1,0,0,1,0,0,0,0,0,Neiafu,8.86,3230946.5,yes
+25,Pelican Island,32,Antigua,17.105436938726,-61.70393617981,0,1,1,0,1,0,0,0,0,0,0,0,0,Piggotts,6.39,6755399.5,yes
+26,The Ocean Flower,0,Maldives,4.3082232000000005,73.505305,0,0,1,0,0,0,0,0,0,0,0,0,0,Hulhumale,7.09,3082410.25,yes
+27,Barefoot Cay Resort,8,Honduras,16.337773874129994,-86.47496419787,0,1,0,0,0,0,0,1,0,0,0,0,0,French Harbor,2.89,2224444.0,yes
+28,Verde Island Resort,274,Philippines,13.551798000000002,121.07364,1,1,0,0,0,0,0,1,0,0,0,0,0,Ilihan,5.48,8958066.0,yes
+29,Gopher Key Florida,10,United States of America,24.642636524140002,-81.48533277511599,0,1,0,0,0,0,0,0,0,0,0,0,0,Cudjoe Key,2.16,13370480.0,yes
+30,Schloss Island,82,Canada,50.496782,-127.86204,1,1,1,0,0,0,0,0,0,0,0,0,0,Port McNeill,34.66,1262974.25,yes
+31,Isla San Pedro,16000,Chile,-47.71666670000001,-74.91666670000002,1,1,1,0,0,1,0,0,0,0,0,0,0,Provincia Capitán Prat,66.22,17986514.0,yes
+32,Isla Rancheria,310,Panama,8.26783,-82.42224499999998,1,1,0,0,1,0,1,0,0,0,0,0,0,Pedregal,6.83,10465178.0,yes
+33,The World Islands - Dubai,0,United Arab Emirates,25.217832,55.168812,0,0,1,1,0,0,0,0,0,0,0,0,0,Dubai,13.1,7961256.0,yes
+34,"Blackbook Listing
+(2521)",0,SVG,13.010051400000002,-61.2306446,1,1,0,0,1,0,0,0,0,0,0,0,0,Kingstown,10.04,507315.25,yes
+35,"Blackbook Listing
+(2106)",0,Turks and Caicos,21.85,-72.1166667,1,1,1,0,1,0,0,0,0,0,0,0,0,Saint-Louis du Nord,138.02,2437365.25,yes
+36,Webber Island,50,Canada,44.921159100000004,-79.8398567,0,0,0,1,0,0,0,0,1,1,0,0,0,Midland,12.01,709968.8125,yes
+37,Mowat Island,11,Canada,45.3676324,-80.1499853,0,0,0,0,0,1,0,0,1,1,1,0,0,Parry Sound,5.74,1276970.375,yes
+38,Pulfords Island,2,Canada,49.713,-94.536,0,0,0,1,0,0,0,0,1,0,0,0,0,Kenora,4.29,962980.625,yes
+39,Barne's Island,4,Canada,45.034305678322,-76.827730248071,0,0,1,0,0,1,0,0,1,1,0,0,0,Perth,29.75,900649.75,yes
+40,Charlebois Island,36,Canada,45.078402271848,-80.068906635437,0,0,0,0,0,0,0,0,0,0,0,0,0,Parry Sound,18.65,451423.90625,yes
+41,Villa Katsura,3,United Kingdom,18.489842764822,-64.41457799361,0,1,1,0,1,0,0,1,0,0,0,0,0,Saint Paul’s,127.98,4923953.0,yes
+42,10 Kilometers Beachfront,2213,Belize,16.253724362073,-88.580941743896,1,1,0,0,1,0,0,0,0,0,0,0,0,Punta Gorda,18.59,18948714.0,yes
+43,Lighthouse Cay,765,Bahamas,24.627201,-76.14726999999998,1,1,1,0,1,0,0,0,0,0,0,0,0,Arthur’s Town,29.88,25081794.0,yes
+44,St Phillips Island,4680,United States of America,32.2843663,-80.6131635,1,0,0,0,0,0,0,0,0,0,0,1,0,Beaufort County,6.82,10596050.0,yes
+45,Pakatoa Island,60,New Zealand,-36.796114700000004,175.1939382,1,1,0,0,1,0,0,1,0,0,0,0,0,Pakuranga,16.47,3513403.0,yes
+46,Half Moon Cay,10,Honduras,16.441712015679,-85.848778597809,0,1,1,0,1,1,0,0,0,0,0,0,0,Savannah Bight,0.58,5098368.5,yes
+47,"Blackbook Listing
+(2520)",0,SVG,13.010051400000002,-61.2306446,1,1,0,0,0,0,0,0,0,0,0,0,0,Kingstown,10.04,507315.25,yes
+48,Whale Cay,575,Bahamas,25.410789571574,-77.78529086103501,1,1,1,0,1,1,1,1,0,0,0,0,0,San Andros,28.97,24991996.0,yes
+49,Broad Key,63,United States of America,25.351074696991,-80.26041613359101,1,1,1,0,0,1,0,0,0,0,0,0,0,North Key Largo,7.0,13034406.0,yes
+50,Gumelemi Cay,8,Bahamas,26.700186499999997,-77.1767345,0,1,1,0,1,0,0,0,0,0,0,0,0,Marsh Harbour,13.02,1515612.625,yes
+51,Hopkins Island,13,United States of America,24.629443,-81.379735,0,1,1,0,1,1,0,0,0,0,0,0,0,Big Pine Key,3.23,17370574.0,yes
+52,St John's Island,750,Greece,37.821285509524,23.261950846557998,1,1,0,0,0,0,0,0,0,0,0,0,0,Ágioi Theódoroi,9.82,16718634.0,yes
+53,"Blackbook Listing
+(2602)",0,Fiji,-17.776535600000006,177.43562269999995,1,1,0,0,1,0,1,0,0,0,0,0,0,Nadi,2.24,3307337.0,yes
+54,"Blackbook Listing
+(2538)",0,Belize,17.5045661,-88.1962133,1,1,1,0,1,1,1,0,0,0,0,0,0,Belize City,0.36,2172672.5,yes
+55,Petra Island,11,United States of America,41.383148999999996,-73.737076,0,0,1,0,0,1,0,0,1,1,1,0,0,Mahopac,0.77,1269275.5,yes
+56,Walker's Cay,58,Bahamas,27.259665000000002,-78.401442,1,1,1,0,1,0,1,0,0,0,1,0,0,High Rock,45.52,5621577.5,yes
+57,Wavi Island,27,Fiji,-16.802836,179.41130857141002,1,1,1,0,1,1,0,0,0,0,0,0,0,Cakaudrove Province,9.41,6483388.5,yes
+58,Petit Nevis,71,SVG,12.973633999999999,-61.243501,1,1,1,0,1,0,0,0,0,0,0,0,0,Kingstown,12.6,6318710.0,yes
+59,Shelter Island Estate,22,United States of America,47.89550120000001,-114.1742844,1,0,1,0,0,1,0,0,1,0,0,0,0,Lakeside,8.87,2108862.25,yes
+60,Nissos Makri,245,Greece,38.359157,21.036704999999998,1,1,0,0,0,0,0,0,0,0,0,0,0,Katochí,12.26,9244082.0,yes
+61,Casey Bay,4,United Kingdom,18.459454775961,-64.441094985706,0,1,0,0,0,1,0,1,0,0,0,0,0,Saint Paul’s,128.2,7816816.5,yes
+62,Northern Aegean Island,34,Greece,37.994851823417,24.258839609375,1,1,0,0,1,0,0,0,0,0,0,0,0,Marmárion,4.99,3662167.75,yes
+63,Lambay Cay,7,Honduras,15.961115806933,-86.471495149158,0,1,0,0,1,0,0,0,0,0,0,0,0,Nueva Armenia,11.58,415909.8125,yes
+64,"Blackbook Listing
+(2096)",0,Seychelles,-4.679574,55.491977,1,1,0,0,1,1,1,1,0,0,0,0,0,Cascade,1.05,5278958.5,yes
+65,Blue Island,700,Bahamas,23.391374022343,-75.474572913403,1,1,1,0,1,1,1,0,0,0,0,0,0,George Town,21.58,19936432.0,yes
+66,Sandy Cay,8,Bahamas,26.583726472911,-77.00692410688501,0,1,1,0,1,1,0,0,0,0,0,0,0,Marsh Harbour,4.57,2530485.75,yes
+67,Nukudrau Island,46,Fiji,-16.734812825877,179.58135919417,1,1,1,0,1,0,0,0,0,0,0,0,0,Cakaudrove Province,11.87,6718997.0,yes
+68,Hope Island,86,United States of America,43.705915999999995,-70.1175477,1,1,1,0,0,1,0,0,0,0,0,0,0,Falmouth Foreside,4.93,3465062.0,yes
+69,Kato Antikeri Island,272,Greece,36.841371654212,25.666822592589998,1,1,0,0,0,0,0,0,0,0,0,0,0,Filótion,17.25,9067928.0,yes
+70,Rai Ki Wai Estate,47,Fiji,-17.616061300000005,179.0012007,1,1,0,0,1,0,1,1,0,0,0,0,0,Lomaiviti Province,13.7,5582565.0,yes
+71,The Southern Minks,14,Canada,45.379377777778,-80.430175,0,0,1,0,0,1,0,0,1,0,0,0,0,Parry Sound,19.3,1179330.0,yes
+72,"Blackbook Listing
+(2534)",0,United States of America,18.335765,-64.896335,1,1,0,0,1,0,0,0,0,0,0,0,0,Saint Paul’s,149.96,1458652.125,yes
+73,Nissos Sofia,44,Greece,38.4801066,21.001351100000004,1,1,0,0,0,0,0,0,0,0,0,0,0,Astakós,5.78,2764749.25,yes
+74,Breakwater Island,65,Canada,49.13581168535301,-123.68240396955,1,1,1,0,0,1,0,0,0,0,0,0,0,Cedar,7.82,3713056.0,yes
+75,Maosonon Island,112,Philippines,11.242817734494,119.68198835502,1,1,0,0,1,0,0,0,0,0,0,0,0,Tiniguiban,14.37,3854296.5,yes
+76,Dao Island,118,Philippines,12.053276,119.79326699999999,1,1,0,0,1,0,0,0,0,0,0,0,0,Panlaitan,5.89,4416579.0,yes
+77,Live Oaks Island,12,United States of America,32.439456446913,-80.497382089966,0,1,0,1,0,0,0,0,0,0,0,0,0,Beaufort,10.07,870260.5625,yes
+78,Johnny's Cay,4,Bahamas,26.567738300000002,-76.97240699999998,0,1,1,0,1,1,0,0,0,0,0,0,0,Marsh Harbour,5.93,2488346.5,yes
+79,Savage Island Plantation,415,United States of America,32.183446137973,-80.86671905752,1,0,1,0,0,1,0,0,0,0,0,1,0,Bluffton,3.73,9931670.0,yes
+80,Manta Caye,8,Belize,16.713649493800002,-87.851645323181,0,1,1,0,1,0,0,0,0,0,0,0,0,Dangriga,30.81,1408865.5,yes
+81,Tragonisi Island,90,Greece,37.803434608927,23.247510648163,1,1,0,0,0,0,0,0,0,0,0,0,0,Ágioi Theódoroi,10.31,2714870.25,yes
+82,"Blackbook Listing
+(2107)",0,Bahamas,26.87329960000001,-77.9038897,1,1,1,0,1,0,0,0,0,0,0,0,0,Cooper’s Town,24.2,1085357.75,yes
+83,Hood Island,4,Canada,48.715472786144,-123.37285671161001,0,1,0,0,1,0,0,0,0,0,0,0,0,North Saanich,4.0,1097652.0,yes
+84,Castle Island,20,Canada,50.120349,-88.81904899999998,0,0,1,0,0,1,0,0,1,1,0,0,0,Thunder Bay District,45.15,2079677.0,yes
+85,Reef Island,17,United States of America,48.604267799999995,-123.01629299999999,0,0,1,0,1,1,0,0,1,0,0,0,0,Friday Harbor,4.84,2003510.75,yes
+86,Green Island,68,United States of America,45.835498799999996,-84.747483,1,0,0,0,0,0,0,0,1,0,0,0,0,Saint Ignace,2.33,1787185.5,yes
+87,Turtle Island Australia,23,Australia,-23.798903,151.26486,1,1,1,0,1,1,0,0,0,0,0,0,0,Gladstone Central,3.2,5310360.5,yes
+88,Pavis Island,11,Canada,45.56096820000001,-80.4662676,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,25.58,1904227.125,yes
+89,Scott Island,5,Canada,48.972485,-123.69523999999998,0,1,1,0,0,1,0,0,0,0,0,0,0,Saltair,3.72,2092612.5,yes
+90,Fawn Island,2,United States of America,48.6137126,-123.00712709999999,0,0,1,0,0,1,0,0,1,0,0,0,0,Friday Harbor,5.51,1167889.375,yes
+91,Mai Island,32,Fiji,-16.199549003578998,179.83641846777005,1,1,1,0,1,1,0,0,0,0,0,0,0,Labasa,35.21,4065326.0,yes
+92,Ilha Comprida,10,Brazil,-22.963767808131,-44.369380523804,0,0,0,0,0,0,0,0,0,0,0,0,0,Angra dos Reis,4.41,1502584.125,yes
+93,Moho Caye,8,Belize,16.499695000000006,-88.167182,0,1,1,0,1,0,0,0,0,0,0,0,0,Placencia,13.24,1408865.5,yes
+94,Fairview Island,20,Canada,45.225600682004995,-79.069234899414,0,0,1,1,0,1,0,0,1,1,0,0,0,Huntsville,10.33,2067518.625,yes
+95,Emerald Island,6,United States of America,37.071107874446,-79.60751847100799,0,0,1,0,0,1,0,0,1,0,0,0,0,North Shore,2.9,2028660.375,yes
+96,Ram Island Washington,10,United States of America,48.476404758247995,-122.83138870701,0,0,0,0,1,0,0,0,1,0,0,0,0,Friday Harbor,9.4,826344.3125,yes
+97,Victor Island Escape,8,Australia,-21.323164346979002,149.32219402856,0,1,1,0,1,1,0,0,0,0,0,0,0,Hay Point,3.63,2176142.5,yes
+98,Nukanamo Island,22,Tonga,-19.714895604984,-174.27620482543998,1,1,0,0,1,0,0,0,0,0,0,0,0,Pangai,8.56,5574516.0,yes
+99,Turn Island,82,Canada,50.3478502,-125.46669909999999,1,1,1,0,0,0,0,0,0,0,0,0,0,Campbell River,24.92,3244345.0,yes
+100,Jesse Island,9,Canada,49.207208,-123.94612,0,1,1,0,0,0,0,0,0,0,0,0,0,Nanaimo,2.83,1272054.125,yes
+101,Vigur Island,111,Iceland,66.0554547,-22.8289032,1,1,1,1,0,1,0,0,0,0,0,0,0,Ísafjarðarbær,8.5,90357920.0,yes
+102,Cayo Geraldo,25,United States of America,17.935866056483,-66.299191132324,1,1,1,0,1,1,0,0,0,0,0,0,0,Punta Cana,145.16,8520404.0,yes
+103,Bull Island,175,Canada,49.485336943353005,-124.19614059041001,1,1,0,0,1,0,0,0,0,0,0,0,0,South Pender Harbour,12.17,4365564.0,yes
+104,Lobster Island,3,Bahamas,25.463572531511,-76.785163879395,0,1,1,0,0,1,0,0,0,0,0,0,0,Spanish Wells,5.92,8515304.0,yes
+105,White's Island,143,United States of America,45.182037,-67.692089,1,0,0,0,0,0,0,0,1,0,0,0,1,Washington County,15.24,2840936.25,yes
+106,Moffat Island,2,Canada,45.537104320001,-80.434898005127,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,23.39,1595778.375,yes
+107,Little Horse Island,8,United States of America,32.398244,-80.488175,0,1,1,1,0,1,0,0,0,0,0,0,0,Beaufort,10.84,1778249.875,yes
+108,Platanal Island,6,Panama,8.4447581,-79.00728829999998,0,1,0,0,1,0,0,0,0,0,0,0,0,Distrito de Balboa,1.59,2418954.0,yes
+109,Blanchette Island,5,Canada,45.203605586962006,-80.135561594165,0,0,1,0,0,1,0,0,1,0,0,0,0,Parry Sound,11.06,981171.5625,yes
+110,Mclean Island,1200,United States of America,36.262942428875,-89.53071572485399,1,0,0,0,0,0,0,0,0,0,0,1,0,Ridgely,2.39,14219308.0,yes
+111,Comfort Island,2,United States of America,44.325168154802,-75.936228984131,0,0,1,0,0,1,0,0,0,0,1,1,0,Alexandria Bay,1.18,2097705.75,yes
+112,Bijela Island,8,Croatia,44.86444457105699,14.761233520508,0,1,0,0,0,0,0,0,0,0,1,0,0,Lopar,2.68,2007147.375,yes
+113,Castaway Island,2,Vanuatu,-15.613184137641001,167.14538207473,0,1,1,0,1,1,0,0,0,0,0,0,0,Luganville,6.54,2097287.0,yes
+114,Anchor Island,2,Canada,45.4908086,-80.42047729999999,0,0,1,0,0,1,0,0,1,1,0,0,0,Parry Sound,21.15,873938.0625,yes
+115,Great Diamond Island-30 West Shore Drive,1,United States of America,43.67531756836701,-70.20342490957,0,1,1,1,0,1,0,0,0,1,0,0,0,South Portland,3.0,2237732.25,yes
+116,Petit Gauke and Little Petit Gauke Islands,37,United States of America,31.911835217990003,-81.113937275391,1,0,0,0,0,0,0,0,0,0,1,1,0,Montgomery,2.04,2591742.75,yes
+117,Morgan's Island,59,United States of America,32.542884769518,-80.72134071118201,1,0,0,0,0,0,0,0,0,0,0,1,0,Burton,7.4,768064.3125,yes
+118,Squaw Island,69,United States of America,45.837138660973,-85.588043247266,1,0,0,0,1,0,0,0,1,0,0,0,0,Schoolcraft County,31.67,-1316194.75,yes
+119,North Breeze Island,12,United States of America,32.53102665029,-80.724902636462,0,0,0,0,0,0,0,0,0,0,0,1,1,Burton,6.58,817774.4375,yes
+120,Pretty Joe Rock,0,United States of America,24.718506098141,-81.08540255588899,0,0,1,0,0,0,0,0,0,0,0,0,0,Marathon,0.45,24291098.0,yes
+121,Maude Island,1,United States of America,57.034086979986,-135.32443173408998,0,1,1,1,0,1,0,0,0,0,0,0,0,Sitka,1.34,3858564.0,yes
+122,Casco Bay Island,41,United States of America,44.95568529999999,-66.9318625,1,1,1,0,0,1,0,0,0,1,0,0,0,Eastport,4.45,4074835.0,yes
+123,xCasco Bay Islandx,41,Canada,44.955627,-66.931286,0,1,1,0,1,1,0,0,0,1,0,0,1,Eastport,4.46,3726657.75,yes
+124,Douglas Island,4,United States of America,44.50982,-73.86065500000002,0,0,1,0,0,1,0,0,1,0,0,0,0,Dannemora,16.1,900649.75,yes
+125,"Blue Island, Nova Scotia",188,Canada,43.68193257376601,-65.176161365112,1,1,1,0,1,0,0,0,0,0,0,0,1,Shelburne,9.26,4653835.5,yes
+126,Belle Island,2,United States of America,44.3408833,-75.927453,0,0,1,0,0,1,0,0,0,0,0,1,0,Alexandria Bay,0.59,-157190.4375,yes
+127,"Sheep Island, British Columbia",8,Canada,48.67587284845701,-123.32820262123998,0,1,1,0,0,1,0,0,0,0,0,0,0,North Saanich,4.21,2112660.25,yes
+128,Savage Isle,8,United States of America,32.1821495,-80.8653872,0,0,0,0,0,0,0,0,0,0,0,1,0,Bluffton,3.81,1362668.25,yes
+129,Rosewood Caye,25,Belize,18.048256,-87.947745,1,1,0,0,0,0,0,0,0,0,0,0,0,San Pedro,9.22,4356196.5,yes
+130,xEagle Islandx,7,United States of America,45.833068,-88.033817,0,0,0,0,0,0,0,0,1,0,0,0,0,Iron Mountain,1.78,798633.4375,yes
+131,Rose Island,21,United States of America,46.142301399870995,-89.08527101930002,1,0,1,0,0,1,0,0,1,0,0,0,0,Eagle River,17.32,1393082.375,yes
+132,South Octopus Island,50,Canada,50.273704262594,-125.22330309463001,1,1,0,0,0,0,0,0,0,0,0,0,0,Campbell River,17.81,1656385.5,yes
+133,Dolphin Jump Key,1,United States of America,24.740585819882003,-81.034797722212,0,1,0,0,0,0,0,0,0,0,0,0,1,Marathon,3.95,5467587.5,yes
+134,Ile de Paon,6,United States of America,32.424975472531,-80.59638792596401,0,0,0,0,0,0,0,0,0,0,0,1,1,Beaufort,4.31,1342620.75,yes
+135,Julia Island,7,Canada,48.875164500000004,-123.3965906,0,1,1,0,0,0,0,0,0,0,0,0,0,Ganges,4.95,802914.8125,yes
+136,Kangaroo Island,410,Australia,-25.430446547811,152.88147001222,1,1,0,0,1,0,0,0,0,0,0,0,0,River Heads,2.23,4938313.0,yes
+137,Fish Bladder Island,12,United States of America,44.6719893,-73.2531858,0,0,1,0,1,1,0,0,1,0,0,0,0,Milton,7.36,1123956.0,yes
+138,Casa Brisa by the Sea,3,Belize,17.955282999999994,-87.982754,0,1,1,0,1,1,0,0,0,0,0,0,0,San Pedro,2.93,3497993.75,yes
+139,Island C-935,5,Canada,45.347625206832,-80.2892995,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,12.34,1404773.5,yes
+140,Crown Island,18,Canada,45.06895220000001,-79.5231132,0,0,1,1,0,1,0,0,1,1,0,0,0,Bracebridge,10.39,1437875.0,yes
+141,Island of Sirens,1,Italy,37.858355221154,15.300878364418,0,1,0,0,0,0,0,0,0,0,0,0,0,Taormina,0.75,914316.9375,yes
+142,Sumba Island Properties,5,Indonesia,-9.7699747467317,119.36698717401,1,1,0,0,1,0,0,0,0,0,0,0,0,Kabupaten Sumba Barat,15.14,-98868.125,yes
+143,Surf Beach Property,4,Indonesia,-9.6993439,119.9740534,0,1,0,0,1,0,0,0,0,0,0,0,0,Waingapu,19.97,-142784.59375,yes
+144,Prince Cay,9,Bahamas,26.951557116055003,-77.60854041543,0,1,1,0,1,0,0,0,0,0,0,0,0,Cooper’s Town,8.16,1896781.75,yes
+145,The Tryon Islands,6,Canada,45.0737604,-80.0796331,0,0,1,0,0,1,0,0,1,1,0,0,0,Parry Sound,19.02,981171.5625,yes
+146,Kanadeio Island,1,Canada,45.541124442523,-80.478814337997,0,0,1,0,0,1,0,0,1,1,0,0,0,Parry Sound,25.33,873938.0625,yes
+147,Phuket Island Villas,0,Thailand,7.999147902633599,98.34481158242201,0,0,1,0,0,0,0,0,0,0,0,0,0,Amphoe Thalang,2.52,37416888.0,yes
+148,Lower Harbour Cay,5,Bahamas,25.083136677834002,-77.201706503552,0,1,1,0,0,0,0,0,0,0,0,0,0,Nassau,9.01,7358159.0,yes
+149,Tavewa Island Property,5,Fiji,-16.926284699999997,177.35997949999995,0,1,0,0,1,0,0,0,0,0,0,0,0,Ba,46.85,1833234.25,yes
+150,Johnston Island,12,United States of America,44.024194774282996,-69.390963693579,0,1,1,0,1,1,0,0,0,0,1,0,1,Friendship,3.98,2412592.25,yes
+151,Quiet Cove Key,0,United States of America,24.738329914275997,-81.01329596693401,0,0,1,0,0,0,0,0,0,0,0,0,0,Marathon,5.13,6334401.0,yes
+152,Fane Island,2,Canada,48.80727150000001,-123.269226,0,1,1,0,0,0,0,0,0,0,0,0,0,Salt Spring Island,10.1,360732.3125,yes
+153,Little Ironsides Island,1,United States of America,44.396643,-75.84586,0,0,1,0,0,1,0,0,0,0,0,1,0,Alexandria Bay,5.5,1066544.375,yes
+154,Carlotta Island,14,Canada,45.138622414478,-80.067633758197,0,0,1,0,0,1,0,0,1,1,0,0,0,Parry Sound,14.51,1179330.0,yes
+155,"Blackbook Listing
+(2132)",0,Nicaragua,11.915325297967,-85.905318260193,0,0,1,1,0,1,0,0,1,0,0,0,0,Granada,3.57,3088314.0,yes
+156,West Calf Island,62,Ireland,51.474428718687,-9.5181083679199,1,1,1,0,0,0,0,0,0,0,1,0,0,Skibbereen,12.01,2347681.75,yes
+157,Big Trout Island,30,United States of America,46.055721999999996,-83.853021,1,0,1,0,0,1,0,0,1,0,0,0,0,Thessalon,19.19,2477964.5,yes
+158,Mouse Island,0,United States of America,41.315669590206,-71.991948846835,0,0,1,0,0,1,0,0,0,0,0,0,0,Noank,0.85,1505720.75,yes
+159,11907 Ocklawaha Drive,12,United States of America,28.852008357708996,-81.758651344566,0,0,1,0,0,1,0,0,1,0,0,0,0,Silver Lake,2.5,3408309.5,yes
+160,Nanuku Levu Island,11,Fiji,-16.718845077294,-179.45377655029,0,1,1,0,1,0,0,0,0,0,0,0,0,Cakaudrove Province,74.84,6517980.5,yes
+161,Ermyn Island,11,Canada,45.202555467843,-80.139403875147,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,11.21,1605988.5,yes
+162,Second Sister Island,3,Canada,48.8376344,-123.45405690000001,0,1,1,0,0,0,0,0,0,0,0,0,0,Salt Spring Island,2.12,1229915.125,yes
+163,Santa Lucia,100,Nicaragua,10.943003057792001,-83.710919960669,0,1,0,0,0,0,0,0,0,0,0,0,0,Pococí,31.06,3441900.5,yes
+164,Lime Cay,10,Nicaragua,12.438022,-83.43251500000002,0,1,0,0,1,0,0,0,0,0,0,0,0,Laguna de Perlas,17.4,3405120.5,yes
+165,Starlings Island,75,United States of America,37.916135851615,-75.732707724854,1,0,0,0,0,0,0,0,1,0,0,0,0,Crisfield,8.07,709633.75,yes
+166,Exile Island,15,Fiji,-16.271126265195,179.43393947924,0,1,0,0,1,0,0,0,0,0,1,0,0,Labasa,12.11,11281004.0,yes
+167,North East Pavis Island,11,Canada,45.56096820000001,-80.4662676,0,0,0,0,0,0,0,0,1,0,0,0,0,Parry Sound,25.58,337112.28125,yes
+168,Motu Opuou,1,France,-16.561297861051,-151.4558982933,0,1,0,0,1,0,0,0,0,0,0,0,0,Avarua,631.34,2866241.75,yes
+169,Lighthouse Island,5,Canada,45.894251275682,-80.74134428173801,0,0,1,1,0,1,0,0,1,1,0,0,0,Lively,42.07,2697198.25,yes
+170,Cherry Island,8,United States of America,38.563030376469,-76.211800904907,0,0,0,0,0,0,0,0,1,0,0,0,0,Algonquin,5.89,694464.375,yes
+171,Diamond Cay,1,Honduras,16.113511905399,-86.941889989258,0,1,0,0,1,0,0,0,0,0,0,0,0,Utila,1.18,1041138.5,yes
+172,O'Dowd Island,13,United States of America,44.74313409345,-93.518613454492,0,0,1,0,0,1,0,1,1,0,0,0,1,Shakopee,3.81,2358350.5,yes
+173,Ahe Atoll Motu,17,France,-14.431034977429999,-146.27718546453002,0,1,1,0,1,0,0,0,0,0,0,0,0,Avarua,1003.01,4110651.25,yes
+174,Papoose Island,0,United States of America,44.247437079505,-76.149344934393,0,0,1,0,0,0,0,0,0,0,0,0,0,Clayton,3.19,890806.125,yes
+175,Island C-915,18,Canada,46.056973897166,-81.565002617322,0,0,1,0,0,1,0,0,1,1,0,0,0,Espanola,16.93,1744802.25,yes
+176,Cusabo Island,47,United States of America,32.653843,-79.976937,1,1,1,0,0,1,0,0,0,0,0,0,0,Folly Beach,2.13,4006346.75,yes
+177,Island C-921,2,Canada,45.66945379462,-80.159070942297,0,0,1,0,0,1,0,0,1,1,0,0,0,Parry Sound District,16.69,873938.0625,yes
+178,Morlock Island - C-933,3,Canada,45.4308051,-80.3833537,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,17.85,1680920.5,yes
+179,Isla Quiros,4,Panama,8.4345311697522,-78.983000706082,0,1,0,0,1,0,0,0,0,0,0,0,0,Distrito de Balboa,2.51,2196403.25,yes
+180,Lizzie Island,5,United States of America,46.642863140349,-96.013993372522,0,0,1,0,1,1,0,0,1,0,0,0,0,Pelican Rapids,5.96,957789.6875,yes
+181,Campbell Island,97,United States of America,42.551183,-73.75268,1,0,0,0,0,0,0,0,0,0,0,1,0,Castleton-on-Hudson,2.27,662989.625,yes
+182,Tilloo Pond,11,Bahamas,26.444296883902002,-76.988294073541,0,1,1,1,1,1,0,1,0,0,1,0,0,Marsh Harbour,8.16,7092439.5,yes
+183,xBrown Islandx,5,United States of America,45.069038770373,-68.153034165173,0,0,1,0,0,1,0,0,1,0,0,0,0,Enfield,23.75,922741.25,yes
+184,Farquharson Island,135,Canada,50.597193543747,-126.32138808623002,0,0,0,0,0,0,0,0,0,0,0,0,0,Port McNeill,33.56,2527179.25,yes
+185,Steele Island,0,Canada,45.551207170262,-80.490211248398,0,0,0,0,0,0,0,0,0,0,0,0,0,Parry Sound,26.17,144951.734375,yes
+186,Bustard Island,3,Canada,45.894028959984,-80.888889710315,0,0,1,0,0,1,0,0,1,0,0,0,0,Lively,39.3,3924639.0,yes
+187,1 Snake Island,7,Canada,44.795874991631,-79.84481724853501,0,0,0,0,0,0,0,0,1,1,0,0,0,Midland,3.67,1589174.25,yes
+188,Ropewalk Caye,7,Belize,17.228154932228,-87.861184801819,0,1,0,0,1,0,0,0,0,0,0,0,0,Belize City,29.04,415909.8125,yes
+189,Dry Island,2,Canada,45.125510239123,-79.975811217383,0,0,1,1,0,1,0,0,1,1,0,0,0,Parry Sound,15.6,1595778.375,yes
+190,Fox Point Island,2,United States of America,44.954250729144,-67.394955200261,0,0,1,0,0,1,0,0,1,1,0,0,0,Washington County,10.52,731595.75,yes
+191,Morrow Island,4,United States of America,44.380163276388,-69.32967569252901,0,0,0,0,0,0,0,0,1,0,0,0,0,Searsmont,6.77,341205.53125,yes
+192,Tahifehifa Island,1,Tonga,-18.811052408543,-173.99761307277,0,1,0,0,1,0,0,0,0,0,0,0,0,Neiafu,11.12,1571246.125,yes
+193,Pickerel Pine Island,3,Canada,45.99534,-80.605994,0,0,0,0,0,0,0,0,0,0,0,0,0,Greater Sudbury,38.79,2706483.5,yes
+194,Standerson Island,27,United States of America,46.06613170000001,-83.77194909999999,1,0,0,0,0,0,0,0,1,0,0,0,0,Thessalon,16.07,665176.4375,yes
+195,Narrows Island,6,United States of America,44.80515618292901,-67.35468900000001,0,0,0,0,0,0,0,0,1,0,0,0,0,East Machias,4.87,528703.75,yes
+196,Wedding Cake Island,1,Canada,44.652292665194,-76.298830074219,0,0,0,0,0,1,0,0,1,1,0,0,1,Perth,17.29,682533.75,yes
+197,Little Gaulding Cay,2,Bahamas,25.613744,-77.735395,0,1,1,0,0,0,0,0,0,0,0,0,0,San Andros,42.6,1616643.375,yes
+198,Win Island,2,Canada,45.889911,-80.23655699999998,0,0,1,0,0,1,0,0,1,0,0,0,0,Parry Sound District,21.7,873938.0625,yes
+199,Pink Pearl Island,1,Nicaragua,12.4373519,-83.4229208,0,1,0,0,1,0,0,0,0,0,0,0,0,Laguna de Perlas,17.98,120399.6015625,yes
+200,Skala's Palace,2,Canada,46.051568468517,-81.659350451562,0,0,0,0,0,0,0,0,0,0,0,0,0,Little Current,13.68,187777.125,yes
+201,Natural Inlet Island,2,Canada,45.990224403340996,-81.23095875476,0,0,0,0,0,0,0,0,0,0,0,0,0,Lively,30.86,710424.0625,yes
+202,Bear Island,7,Canada,44.245926466187,-64.370451321426,0,1,0,0,0,0,0,0,0,0,0,0,1,Lunenburg,9.54,157587.65625,yes
+203,Sarrat Island,2,Canada,48.6739124,-88.12120340000001,0,0,0,0,0,0,0,0,0,0,0,0,0,Thunder Bay,55.46,-43881.4609375,yes
+204,Pearl Island,1,Canada,45.898007,-80.903902,0,0,1,0,0,1,0,0,1,1,0,0,0,Lively,38.82,3839496.5,yes
+205,Stewards Island,54,United States of America,41.72903485420999,-79.32497686773699,1,0,0,0,0,0,0,0,0,0,0,1,0,Warren County,6.46,1552931.25,yes
+206,Lake Nipissing Island C-905,1,Canada,46.301840815561,-79.838850719324,0,0,1,0,0,1,0,0,1,1,0,0,0,North Bay,17.81,873938.0625,yes
+207,Rock Island,1,United States of America,41.631443062682,-72.302821775888,0,0,0,0,0,1,0,0,1,0,0,0,0,Hebron,3.74,1710328.25,yes
+208,Hangover Island,40,United States of America,28.819601801300998,-82.684178015869,1,0,0,0,1,0,0,0,0,0,0,1,0,Homosassa,4.95,2849100.25,yes
+209,Sweet Island,3,Canada,54.651677230444,-124.96982571423,0,0,1,0,0,0,0,0,1,0,0,0,0,Burns Lake,43.13,570441.5,yes
+210,Gautier Island,3,United States of America,30.376475934600002,-88.61482248161501,0,1,0,0,0,0,0,0,0,0,0,0,0,Gautier,0.67,639184.6875,yes
+211,Tavern Island,4,United States of America,41.060858887019,-73.421734255295,0,1,1,0,0,1,0,0,0,0,0,0,0,Darien,2.77,2155853.25,yes
+212,Spanish Lookout Caye,186,Belize,17.412715897467,-88.070159026367,1,1,0,0,1,0,0,1,0,0,0,0,0,Belize City,10.32,6144973.5,yes
+213,Tikina-i-ra Island,10233,Fiji,-16.768883908763,178.48990280449,1,1,0,0,1,0,0,0,0,0,0,0,0,Bua Province,17.77,3893946.5,yes
+214,Sear Island,28,Canada,49.14689425139201,-123.69157732853,1,1,1,1,0,1,0,0,0,0,0,0,0,Cedar,7.58,3865413.0,yes
+215,Jupiter Island,642,Ecuador,0.432841,-80.05711,1,1,0,0,1,0,0,0,0,0,1,0,0,Muisne,12.61,17106512.0,yes
+216,2620,1350,Greece,38.069309552599,19.0253207125,1,1,0,0,1,0,0,0,0,0,0,0,0,Lixoúri,77.26,44847212.0,yes
+217,Tovu Island,180,Fiji,-17.346108087666,178.05884785448998,1,1,1,0,1,1,0,0,0,0,0,0,0,Ra Province,12.79,5870850.0,yes
+218,Sindiro Island,220,Uganda,0.15922982410854,33.137118460852,1,0,0,0,0,0,0,0,1,0,0,0,0,Njeru,19.73,12838716.0,yes
+219,Crawl Caye (Belize City),48,Belize,17.577936138183,-87.794451441528,1,1,0,0,0,0,0,0,0,0,0,0,0,San Pedro,25.94,3786128.5,yes
+220,Little Bay Estate,7,United Kingdom,18.491555511761,-64.364994265857,0,1,1,0,1,1,0,0,0,0,0,0,0,Saint Paul’s,125.42,4342106.5,yes
+221,26-Acre Island in Blue Ground Range,3,Belize,16.81485815408,-88.15099612653202,0,1,1,0,1,1,0,0,0,0,0,0,0,Dangriga,12.0,2635352.0,yes
+222,Wadigi Island,0,Fiji,-17.717881368644,177.14799322578,0,1,0,0,0,1,0,0,0,0,0,0,0,Nadi,18.6,2158595.75,yes
+223,The Balam Escape,9500,Belize,17.985908426168002,-88.198139639258,1,1,0,0,1,0,0,0,0,0,0,0,0,San Pedro,16.01,14405556.0,yes
+224,42-Acre Private Island West of Placencia Village,42,Belize,16.515152844688,-88.37696588311199,1,1,0,0,0,0,0,0,0,0,0,0,0,Placencia,0.7,4457960.0,yes
+225,Mauger Caye,7,Belize,17.607045928001,-87.77201230423,0,1,0,0,0,0,0,0,0,0,0,0,0,San Pedro,24.87,415909.8125,yes
+226,Pair of Fiji Islands,25,Fiji,-17.1121121,177.2469064,1,1,0,0,1,0,0,0,0,0,0,0,0,Lautoka,37.37,4130622.25,yes
+227,Gibraleon Island,227,Panama,8.5168638912591,-79.045165847022,1,1,0,0,1,0,0,0,0,0,0,0,0,Distrito de Balboa,4.64,9139742.0,yes
+228,Wailagilala Island,113,Fiji,-16.74894797678,-179.10319795659,1,1,1,0,1,0,0,0,0,0,0,0,0,Cakaudrove Province,98.11,19021140.0,yes
+229,"Pine Island, Vermont",23,United States of America,44.808682143475,-71.86852816499001,1,0,0,0,1,0,0,0,1,1,0,0,1,Essex County,8.57,563920.625,yes
+230,Denarau Peninsula,1,Australia,-17.763712796196,177.38533436014,0,1,1,0,1,1,0,0,0,0,0,0,0,Nadi,3.39,3720501.25,yes
+231,Laguna Azul,2,Panama,9.1888035899812,-82.102900224762,0,1,0,0,0,1,0,1,0,0,0,0,0,Isla Bastimentos,7.96,2407947.5,yes
+232,Jewel Caye,2,Belize,16.790789221728,-88.156483249436,0,1,1,0,1,1,0,0,0,0,0,0,1,Dangriga,13.36,2558597.0,yes
+233,Reef Islands,237,Vanuatu,-13.621122871583,167.52765646465,1,1,0,0,1,0,0,0,0,0,0,0,0,Sola,17.69,6573458.0,yes
+234,Elizabeth Island,65,Australia,-38.41622279999999,145.36897119999998,1,1,1,0,1,0,0,0,0,0,0,0,0,Bass Coast,7.0,1816714.5,yes
+235,Crawl Caye (Placencia),55,Belize,16.599145201844,-88.215739103699,1,1,0,0,0,0,0,0,0,0,0,0,0,Placencia,11.58,3786128.5,yes
+236,Thatch Cay,230,United States of America,18.358497375508,-64.85728765081801,1,1,0,0,1,0,0,0,0,0,0,0,0,Saint Paul’s,148.33,19248824.0,yes
+237,Lenur Island,84,Vanuatu,-16.515245560472,167.59472462433,1,1,0,0,1,0,0,0,0,0,0,0,0,Norsup,33.73,859385.0,yes
+238,French Bay Property,130,United States of America,18.315466197777,-64.904952182092,1,1,1,0,1,0,0,0,0,0,0,0,0,Saint Paul’s,149.89,18542384.0,yes
+239,Water Island Peninsula,2,United States of America,18.318584944342,-64.958119702299,0,1,1,0,0,1,0,0,0,0,0,0,0,Saint Paul’s,153.16,4286123.5,yes
+240,Private Island Exuma,46,Bahamas,24.184307098204002,-76.44117357619601,1,1,1,0,1,1,0,0,0,0,0,0,0,Arthur’s Town,57.11,11925144.0,yes
+241,Pebble Island,26247,Falkland Islands,-51.286789099609,-59.652042170312,1,1,1,0,1,0,1,1,0,0,1,0,0,Puerto Deseado,371.38,21182944.0,yes
+242,Long Caye Private Island,40,Belize,16.489920017723,-88.214336030103,1,1,1,0,0,1,0,0,0,0,0,0,0,Placencia,10.22,7773700.5,yes
+243,Funk Caye,3,Belize,16.550108117935,-88.08482046066902,0,1,0,0,1,0,0,0,0,0,0,0,0,Placencia,18.82,314097.0,yes
