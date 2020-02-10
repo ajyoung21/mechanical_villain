@@ -1,44 +1,3 @@
-//
-// Configuration
-//
-
-
-
-// ms to wait after dragging before auto-rotating
-
-var numpitch = 1
-var audio = $(`#mySoundClip${numpitch}`)[0];
-
-
-
-$("#cat").mouseenter(function() {
-  audio.play();
-
-}).on('click', function() {
-  if (numpitch < 5) {
-  audio.pause();
-  audio.currentTime = 0;
-  numpitch = numpitch + 1
-}
- 
-  audio = $(`#mySoundClip${numpitch}`)[0];
-  audio.play();
-  console.log(`#mySoundClip${numpitch}`);
-
-}).dblclick(function() {
-  audio.pause();
-  audio.currentTime = 0;
-  numpitch = 1
-  audio = $(`#mySoundClip${numpitch}`)[0];
-  audio.play();
-  console.log(`#mySoundClip${numpitch}`);
-
-
-}).mouseleave(function() {
-  audio.pause();
-  audio.currentTime = 0;
-  console.log('Stopped Music')
-});
 
 
 
@@ -273,10 +232,17 @@ function mousemove() {
   var current_hom_rate = 'Not Available'
   var current_s_err = 'Not Available'
 
+  console.log('indubitably')
+
   
   for (var j = 0; j < data.length; j++) {
 
-    if (currentCountry['id'] == data[j].country_id){
+    console.log('Salutations')
+
+    console.log(currentCountry['Name'])
+    console.log(data[j].Country)
+
+    if (currentCountry['Name'] == data[j].Country){
       current_name = data[j].Country
       
 

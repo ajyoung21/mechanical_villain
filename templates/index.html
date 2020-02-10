@@ -30,6 +30,39 @@ canvas {
 
  }
 
+ #minion:hover{
+   animation: minionmove 0.75s infinite;
+   height: 300px;
+   width: 249.98px
+
+ }
+
+ @-webkit-keyframes minionmove{
+  0% {content:url( "../static/images/Minion_Blink/minion.png")}
+  10% {content:url("../static/images/Minion_Blink/minion2.png")}
+  20% {content:url("../static/images/Minion_Blink/minion3.png")}
+  30% {content:url("../static/images/Minion_Blink/minion2.png")}
+  40% {content:url("../static/images/Minion_Blink/minion.png")}
+  50% {content:url("../static/images/Minion_Blink/minion2.png")}
+  60% {content:url( "../static/images/Minion_Blink/minion3.png")}
+  70% {content:url("../static/images/Minion_Blink/minion2.png")}
+  80% {content:url("../static/images/Minion_Blink/minion.png")}
+  100% {content:url("../static/images/Minion_Blink/minion.png")}
+  }
+
+  @keyframes minionmove{
+  0% {content:url( "../static/images/Minion_Blink/minion.png")}
+  10% {content:url("../static/images/Minion_Blink/minion2.png")}
+  20% {content:url("../static/images/Minion_Blink/minion3.png")}
+  30% {content:url("../static/images/Minion_Blink/minion2.png")}
+  40% {content:url("../static/images/Minion_Blink/minion.png")}
+  50% {content:url("../static/images/Minion_Blink/minion2.png")}
+  60% {content:url( "../static/images/Minion_Blink/minion3.png")}
+  70% {content:url("../static/images/Minion_Blink/minion2.png")}
+  80% {content:url("../static/images/Minion_Blink/minion.png")}
+  100% {content:url("../static/images/Minion_Blink/minion.png")}
+  }
+
  @-webkit-keyframes catmove{
   0% {content:url( "../static/images/Cat_Dance/cat.png")}
   10% {content:url("../static/images/Cat_Dance/cat2.png")}
@@ -139,6 +172,22 @@ canvas {
       height: 300px;
       width: 250px
     }
+
+ #mydiv {
+  position: absolute;
+  z-index: 9;
+  background-color: #f1f1f1;
+  text-align: center;
+  border: 1px solid #d3d3d3;
+}
+
+#mydivheader {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: #2196F3;
+  color: #fff;
+}
   </style>
 
  <meta charset="UTF-8">
@@ -178,7 +227,9 @@ canvas {
   <div class="container">
     <div class="row">
       <div class="col-md-3">
-        <img src="../static/images/minion.png">
+        <div id="minion">
+        <img src="../static/images/Minion_Blink/minion.png">
+      </div>
       </div>
       <div class="col-md-6">
         <div class="well">
@@ -237,7 +288,7 @@ canvas {
         <audio id=mySoundClip3 src=../static/images/Cat_Dance/shooting_stars3.mp3></audio>
         <audio id=mySoundClip4 src=../static/images/Cat_Dance/shooting_stars4.mp3></audio>
         <audio id=mySoundClip5 src=../static/images/Cat_Dance/shooting_stars5.mp3></audio>
-      </div>
+      </div></div>
       <div class="col-md-3"><div id="gauge"></div>
     </div>
   </div>
@@ -254,13 +305,15 @@ canvas {
   <br>
   <div class="row">
     <div class="col-md-12">
-      <div class=well>
+        <center><div class=well>
+          <div id="mydiv">
+              <div id="mydivheader">Click here to move</div>
         <h2 class = "text-center">Select up to two Countries</h2>
         <select id="country_selection_1"></select>
         <select id="country_selection_2"></select>
-      </div>
+      </div></center>
       <div id="bar"></div>
-    </div>
+    </div></div>
   </div>
   <br>
   <br>
