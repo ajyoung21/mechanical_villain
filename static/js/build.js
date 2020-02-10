@@ -302,7 +302,7 @@ function make_scatter(data) {
   })
   
   // Set up trace
-  var trace1 = {
+  var trace3 = {
     x: prices,
     y: acreages,
     mode: 'markers',
@@ -344,7 +344,7 @@ function make_scatter(data) {
       }
     };
 
-  var cool = [trace1]
+  var cool = [trace3]
 
   // Plot the data
   Plotly.newPlot("scatter", cool, layout)
