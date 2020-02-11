@@ -287,9 +287,9 @@ function make_scatter(data) {
     // Grab relevant information
     var island_name = island[0]
     var island_info = island[1]
-    var country = island_info["Country"]
-    var acreage = island_info["Acreage"]
-    var price = with_price["price"]
+    var country = island_final_price["Country"]
+    var acreage = island_final_price["Acreage"]
+    var price = island_final_price["price"]
 
     var my_string = island_name.concat(": ", country)
     
@@ -344,10 +344,10 @@ function make_scatter(data) {
       }
     };
 
-  var cool = [trace3]
+  var temperate = [trace3]
 
   // Plot the data
-  Plotly.newPlot("scatter", cool, layout)
+  Plotly.newPlot("scatter", temperate, layout)
 }
 
 // This function makes the bar chart
