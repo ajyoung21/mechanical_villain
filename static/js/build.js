@@ -17,6 +17,8 @@ function drop_down_update() {
       attributes.pop()
       attributes.pop()
       attributes.pop()
+      attributes.pop()
+      attributes.pop()
       var index = attributes.indexOf('Country')
       if (index > -1) {
         attributes.splice(index,1)
@@ -83,7 +85,7 @@ function grab_params_and_filter() {
       var acreage = island_info["Acreage"]
       var distance = island_info["city_distance"]
       var country = island_info["Country"]
-
+      
       // Handling cases where no input was gathered
       if (min_acreage_box === "") {
           var min_acreage_box = 0
@@ -106,7 +108,7 @@ function grab_params_and_filter() {
       }
 
       // This is the magic filtering if statement
-      if (country_input == country && param_1_yes_no !== "no" && param_2_yes_no !== "no" && param_3_yes_no !== "no" && acreage >= min_acreage_box && distance >= min_distance_box && distance <= max_distance_box && acreage <= max_acreage_box) {
+      if (country_input == country && param_1_yes_no !== 0 && param_2_yes_no !== 0 && param_3_yes_no !== 0 && acreage >= min_acreage_box && distance >= min_distance_box && distance <= max_distance_box && acreage <= max_acreage_box) {
           filtered_list.push(datum)
       }
 
@@ -136,7 +138,7 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
   maxZoom: 18,
   id: "mapbox.comic",
-  accessToken: "pk.eyJ1IjoibWFyZ2FyaXRhMjUiLCJhIjoiY2s0eWRmYnVqMDh1YzNubWJyczkxN2pnMiJ9.nqjuIZcKeKe9hWtEsmxLSQ"
+  accessToken: "pk.eyJ1IjoiZXh0cmFzYXVjZW9udG9wIiwiYSI6ImNrNjZ5YzZwNzFxeGwzbHIwdmpoMzZybTIifQ.u2xNzhNPAj4xWffdSRjwmQ"
 }).addTo(myMap); 
 
 
@@ -174,6 +176,10 @@ function make_map(data) {
       lat_lon.push(island[1].latitude)
       lat_lon.push(island[1].longitude)
 
+      // Get the price
+      var price = island[1].price
+      var predicted = island[1].predicted
+
       // Apply color formatting based on host countries corruptness
       if (corruption >=60) {
         tickcolor = "red";
@@ -190,9 +196,17 @@ function make_map(data) {
       else {
         tickcolor = "gray";
       }
+
+      if (predicted == "no") {
+        fillcolor = "white"
+        fillOpacity = 1
+      } else {
+        fillcolor = "black"
+        fillOpacity = 1
+      }
       
       // Throw those markers on the map
-      var marker = L.circleMarker(lat_lon, {radius: 5, color: tickcolor}).bindPopup("<h3>Island Name: " + island_name + "</h3><hr><h5>Resident country: " + island_country + "</h5><h5>Homicide rate per 100k: " + murder + "</h5>")
+      var marker = L.circleMarker(lat_lon, {radius: 5, color: tickcolor, fillColor: fillcolor, fillOpacity: fillOpacity}).bindPopup("<h3>Island Name: " + island_name + "</h3><hr><h5>Resident country: " + island_country + "</h5><h5>Homicide rate per 100k: " + murder + "</h5><hr><h5>Price: " + price + "</h5><h5>Price predicted: " + predicted + "</h5>")
       markersLayer.addLayer(marker)
     })
   })
@@ -200,11 +214,11 @@ function make_map(data) {
 
 // This function makes the scatterplot
 function make_scatter(data) {
-  
   // Set up lists for later use
   distances = []
   acreages = []
   names = []
+  prices = []
 
   // Loop through each island
   data.forEach((island) => {
@@ -214,10 +228,12 @@ function make_scatter(data) {
     var country = island_info["Country"]
     var distance = island_info["city_distance"]
     var acreage = island_info["Acreage"]
+    var price = island_info["price"]
 
     var my_string = island_name.concat(": ", country)
     
     // append valuse to lists
+    prices.push(price)
     distances.push(distance)
     acreages.push(acreage)
     names.push(my_string)
@@ -272,82 +288,6 @@ function make_scatter(data) {
 
   // Plot the data
   Plotly.newPlot("scatter", cool, layout)
-}
-
-// This function makes the pricing/acreage scatterplot
-function make_scatter(data) {
-  
-  // Set up lists for later use
-  acreages = []
-  names = []
-  prices = []
-
-  // Loop through each island
-  data.forEach((island) => {
-    // Grab relevant information
-    var island_name = island[0]
-    var island_info = island[1]
-    var country = island_final_price["Country"]
-    var acreage = island_final_price["Acreage"]
-    var price = island_final_price["price"]
-
-    var my_string = island_name.concat(": ", country)
-    
-    // append valuse to lists
-    acreages.push(acreage)
-    prices.push(price)
-    names.push(my_string)
-
-      
-  })
-  
-  // Set up trace
-  var trace3 = {
-    x: prices,
-    y: acreages,
-    mode: 'markers',
-    marker: {size:6},
-    text: names,
-    type: 'scatter'
-  }
-  
-  // Set up the scatterplot layout
-  var layout = {
-      title: {
-        text:'Island Size vs Price',
-        font: {
-          family: 'Courier New, monospace',
-          size: 24
-        },
-        xref: 'paper',
-        x: 0.05,
-      },
-      xaxis: {
-        title: {
-          text: 'Price in American Dollars',
-          font: {
-            family: 'Courier New, monospace',
-            size: 18,
-            color: '#7f7f7f'
-          }
-        },
-      },
-      yaxis: {
-        title: {
-          text: 'Island Acreage',
-          font: {
-            family: 'Courier New, monospace',
-            size: 18,
-            color: '#7f7f7f'
-          }
-        }
-      }
-    };
-
-  var temperate = [trace3]
-
-  // Plot the data
-  Plotly.newPlot("scatter", temperate, layout)
 }
 
 // This function makes the bar chart
