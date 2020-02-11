@@ -344,10 +344,10 @@ function make_scatter(data) {
       }
     };
 
-  var cool = [trace3]
+  var temperate = [trace3]
 
   // Plot the data
-  Plotly.newPlot("scatter", cool, layout)
+  Plotly.newPlot("scatter", temperate, layout)
 }
 
 // This function makes the bar chart
