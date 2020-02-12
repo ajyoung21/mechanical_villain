@@ -72,12 +72,21 @@
     }
 
     img {
-      height: 300px;
-      width: 250px
+      height: 155px;
+      width: 133px
     }
 
     #info_globe {
+      background-color: white;
+    }
+
+    #testimonials {
       background-color: lightsteelblue;
+    }
+
+    #vader {
+      height: 155px;
+      width: 133px
     }
 
   </style>
@@ -125,14 +134,34 @@
   </div>
   <br>
   
-  <div class="container">
+  <div class="container" id="testimonials">
+    <br>
     <div class="row">
-      <div class="col-md-12">
-        <h2>Read below what others have to say about Villain Island Villas</h2>
-        <p>Never would've made 1 million... 1 BILLION dollars by putting lasers on the moon without finding my perfect island to call home. Thank you, Masters of Evil, for creating such a wonderful product for villainous people.</p>
-        <p id="drevil">-Dr. Evil</p>
+      <div class="col-md-10">
+        <div class="well">
+          <h2>Read below what others have to say about Villain Island Villas</h2>
+          <hr>
+          <h4>Never would've made 1 million... 1 BILLION dollars by putting lasers on the moon without finding my perfect island to call home. Thank you, Masters of Evil, for creating such a wonderful product for villainous people.</h4>
+          <h4 id="drevil">-Dr. Evil</h4>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <img src="data:image/jpeg;base64,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">
       </div>
     </div>
+    <br>
+    <div class="row">
+      <div class="col-md-10">
+        <div class="well">
+          <h4>The Death Star pales in comparison to the island I found with Villain Island Villas. Evil is so much better when it is conducted on your own private beach</h4>
+          <h4 id="drevil">-Darth Vader</h4>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <img id="vader" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuP-RBaXwOXks6ig1vaoL6egxo2elTarNtI3Zebs2M7EJ8dP98">
+      </div>
+    </div>
+    <br>
   </div>
                 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
@@ -143,5 +172,7 @@
   
   <script src="{{ url_for('static', filename='js/globe2.js') }}"></script>
   
+  <br>
+  <br>
 </body>
 </html>
