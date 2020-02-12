@@ -38,9 +38,9 @@ def about():
 def data_table():
     return render_template("data_table.html")
 
-@app.route("/globe")
+@app.route("/visuals")
 def globe():
-    return render_template("globe.html")
+    return render_template("visuals.html")
 
 if __name__ == '__main__':
 	port = int(os.environ.get('PORT', 5000))
