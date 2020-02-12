@@ -296,7 +296,7 @@ const RadarChart = function RadarChart(parent_selector, data, options) {
 				.attr("x", cfg.w - 70)
 				.attr("y", 10)
 				.attr("font-size", "12px")
-				.attr("fill", "#404040")
+				.attr("fill", "black")
 				.text(cfg.legend.title);
 		}
 		let legend = legendZone.append("g")
@@ -322,7 +322,7 @@ const RadarChart = function RadarChart(parent_selector, data, options) {
 		  .attr("x", cfg.w - 52)
 		  .attr("y", (d,i) => i * 20 + 9)
 		  .attr("font-size", "11px")
-		  .attr("fill", "#737373")
+		  .attr("fill", "black")
 		  .text(d => d);
 	}
 	return svg;

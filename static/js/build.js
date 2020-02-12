@@ -114,6 +114,8 @@ function grab_params_and_filter() {
     // Pass filtered list to the scatterplot and map to only display those islands
     make_scatter(filtered_list)
     make_map(filtered_list)
+    console.log('Salutations')
+    format_filtered_list(filtered_list)
   })
 }
 
