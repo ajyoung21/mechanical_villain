@@ -1,3 +1,80 @@
+function format_filtered_list(list) {
+  console.log('list', list)
+  console.log('It might be filtering')
+  d3.csv('static/data/standardized_info.csv').then((d) => {
+      var array = Object.values(d)
+      console.log('Array', array)
+      var final_list = []
+      for (var i = 0; i < list.length; i++) {
+          for (var j = 0; j < array.length; j++) {
+              if (list[i][0] == array[j]['Island_Name']) {
+                  final_list.push(array[j])
+              }
+          }
+          }
+      make_star(final_list.slice(0,5))
+      })
+}
+
+
+function make_star(list) {
+  var margin = { top: 50, right: 80, bottom: 50, left: 80 },
+              width = Math.min(700, window.innerWidth / 4) - margin.left - margin.right,
+              height = Math.min(width, window.innerHeight - margin.top - margin.bottom);
+      var data = []
+      for (var i = 0; i < list.length; i++) {
+      var datapoint =
+              { name: `${list[i]['Island_Name']} - ${list[i]['Country']}`,
+                  axes: [
+                      {axis: 'Value', value: 1 - list[i]['P_Value']},
+                      {axis: 'Remoteness', value: list[i]['P_Distance']},
+                      {axis: 'Homicide Rate', value: list[i]['P_Homicide']},
+                      {axis: 'Corruption', value: list[i]['P_CPI']},
+                      {axis: 'Income Potential', value: list[i]['Income_Potential']},
+                  ],
+       color: '#26AF32'
+              }
+      data.push(datapoint)
+          }
+          //////////////////////////////////////////////////////////////
+          ////// First example /////////////////////////////////////////
+    ///// (not so much options) //////////////////////////////////
+          //////////////////////////////////////////////////////////////
+          var radarChartOptions = {
+            w: 290,
+            h: 350,
+            margin: margin,
+            levels: 0,
+            roundStrokes: true,
+              color: d3.scaleOrdinal().range(["#26AF32", "#762712", "#2A2FD4"]),
+              format: '.00f'
+          };
+          // Draw the chart, get a reference the created svg element :
+          let svg_radar1 = RadarChart(".radarChart", data, radarChartOptions);
+          //////////////////////////////////////////////////////////////
+          ///// Second example /////////////////////////////////////////
+          ///// Chart legend, custom color, custom unit, etc. //////////
+          //////////////////////////////////////////////////////////////
+          var radarChartOptions2 = {
+            w: 290,
+            h: 350,
+            margin: margin,
+            maxValue: 1,
+            levels: 10,
+            roundStrokes: false,
+            color: d3.scaleOrdinal().range(["#AFC52F", "#FF6600", 'red', "#2A2FD4"]),
+              format: '.00f',
+              legend: { title: 'Individual Islands', translateX: 50, translateY: 40 },
+              unit: ''
+          };
+          // Draw the chart, get a reference the created svg element :
+          let svg_radar2 = RadarChart(".radarChart2", data, radarChartOptions2);
+}
+d3.csv('static/data/standardized_info.csv').then((d) => {
+  var array = Object.values(d)
+  make_star(array.slice(0,4))
+})
+
 // Fill in the drop down menus
 function drop_down_update() {
   // Read in the data and make promise
@@ -116,6 +193,7 @@ function grab_params_and_filter() {
     // Pass filtered list to the scatterplot and map to only display those islands
     make_scatter(filtered_list)
     make_map(filtered_list)
+    format_filtered_list(filtered_list)
   })
 }
 
@@ -288,6 +366,72 @@ function make_scatter(data) {
 
   // Plot the data
   Plotly.newPlot("scatter", cool, layout)
+
+  // Set up Plot 2!
+  var trace11 = {
+    x: prices,
+    y: acreages,
+    mode: 'markers',
+    marker: {size:6},
+    text: names,
+    type: 'scatter'
+  }
+
+  // Set up the scatterplot layout
+  var layout2 = {
+    title: {
+      text:'Island Price Relative to Acreage',
+      font: {
+        family: 'Courier New, monospace',
+        size: 24
+      },
+      xref: 'paper',
+      x: 0.05,
+    },
+    xaxis: {
+      title: {
+        text: 'Price in US Dollars',
+        font: {
+          family: 'Courier New, monospace',
+          size: 18,
+          color: '#7f7f7f'
+        }
+      },
+    },
+    yaxis: {
+      title: {
+        text: 'Island Acreage',
+        font: {
+          family: 'Courier New, monospace',
+          size: 18,
+          color: '#7f7f7f'
+        }
+      }
+    }
+  };
+
+  var warm = [trace11]
+
+  // Plot the data
+  Plotly.newPlot("scatter2", warm, layout2)
+
+  // This chunk makes the bar chart
+  var continents = ["Africa", "Asia", "Europe", "North America", 
+  "South America", "Oceania"];
+  var continental_prices = [5615994, 9916249, 9821797, 3957247, 5478838, 5738044];
+
+  // Set up the trace
+  var trace12 = {
+    x: continental_prices,
+    y: continents,
+    name: "Continental Average Price",
+    type: "bar"
+  }
+
+  // Plot the bar chart
+  var data = [trace12]
+  var layout = {barmode: 'group', xaxis: {tickangle: 35, showticklabels: true, type: 'category'}, yaxis:{tickangle: 315}}
+  Plotly.newPlot('bar_cont', data, layout)
 }
 
 // This function makes the bar chart
