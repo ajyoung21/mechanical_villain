@@ -1,124 +1,147 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Globe</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Globe</title>
 
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
-    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
-    crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
-    integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
-    crossorigin=""></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+  integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+  integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+  crossorigin=""></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+  <style>
+    #title {
+      text-align: center;
+    }
+
+    #globecanvas {
+    width: 100%;
+    height: auto;
+    }
+
+    canvas { 
+    position: relative;
+    width: 100%;
+    height: auto;
+    }
+
+    body {
+    background-color: rgb(54, 8, 8);
+      
+    } 
+      
+    #top_row {
+      background-color: lightsteelblue;
+      text-align: center;
+    }
+    
+    #cool_beans {
+      display: block;
+      margin: 0 auto;
+    }
+    .form-inline .form-group {
+      margin-right:4px;
+    }
+  
+    input {margin-bottom: 5px;}
+  
+    button {
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+  
+  
+
+    input.parsley-error {
+      color: #B94A48 !important;
+      background-color: #F2DEDE !important;
+      border: 1px solid #EED3D7 !important;
+    }
+
+    img {
+      height: 300px;
+      width: 250px
+    }
+
+    #info_globe {
+      background-color: lightsteelblue;
+    }
+
+  </style>
 </head>
 <body>
-    <style>
-        #globecanvas {
-        width: 100%;
-        height: auto;
-        }
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#"><h2>Villain Island Villas!</h2></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-        canvas { 
-        position: relative;
-        width: 100%;
-        height: auto;
-        }
-
-        body {
-          background-color: rgb(54, 8, 8);
-            
-          } 
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#"><h3>Home Page</h3><span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="/visuals"><h3>Visualizations</h3><span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="/data_table"><h3>Data Table</h3><span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="/about_us"><h3>About Us</h3><span class="sr-only">(current)</span></a>
           
-          #top_row {
-            background-color: lightsteelblue;
-            text-align: center;
-          }
-        
-          #cool_beans {
-            display: block;
-            margin: 0 auto;
-          }
-          .form-inline .form-group {
-            margin-right:4px;
-          }
-        
-          input {margin-bottom: 5px;}
-        
-          button {
-            background-color: #4CAF50; /* Green */
-            border: none;
-            color: white;
-            padding: 15px 32px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-          }
-      
-        
-      
-          input.parsley-error {
-            color: #B94A48 !important;
-            background-color: #F2DEDE !important;
-            border: 1px solid #EED3D7 !important;
-          }
-      
-          img {
-            height: 300px;
-            width: 250px
-          }
-        </style>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <a class="navbar-brand" href="#"><h2>Villain Island Villas!</h2></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-                </button>
-            
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                  <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active">
-                      <a class="nav-link" href="#"><h3>Home Page</h3><span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item active">
-                      <a class="nav-link" href="/visuals"><h3>Visualizations</h3><span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item active">
-                      <a class="nav-link" href="/data_table"><h3>Data Table</h3><span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item active">
-                      <a class="nav-link" href="/about_us"><h3>About Us</h3><span class="sr-only">(current)</span></a>
-                      
-                    </li>
-                  </ul>
-                </div>
-              </nav>
+        </li>
+      </ul>
+    </div>
+  </nav>
     
-            
+  <div class="well" id="title">
+    <h1>Welcome to Villain Island Villas 2.0! More Islands, More Evil, More Diabolical Data</h1>
+    <h3>Behold, The 3D Globe of D3 Wonders</h3>
+  </div>
              
-                            <canvas id="globe"></canvas>
-                            <div class="col-md-2"></div>
-                            <div class="col-md-8">
-                            <div id="globe-info"></div>
-                        </div>
-                      </div>
-              
-                   
-                    
-                  </div>
-                
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
-    <script src="https://d3js.org/d3-geo.v1.min.js"></script>
-    <script src="https://d3js.org/topojson.v2.min.js"></script>
-    <script src="https://bl.ocks.org/mbostock/raw/7ea1dde508cec6d2d95306f92642bc42/6aac691494f752142a67cc43c51a0fd09896dbd4/versor.js"></script>
+  <canvas id="globe"></canvas>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8" id="info_globe">
+        <div id="globe-info"></div>
+      </div>
+    </div>
+    </div>
+  </div>
+  <br>
   
-    
-    <script src="{{ url_for('static', filename='js/globe2.js') }}"></script>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Read below what others have to say about Villain Island Villas</h2>
+        <p>Never would've made 1 million... 1 BILLION dollars by putting lasers on the moon without finding my perfect island to call home. Thank you, Masters of Evil, for creating such a wonderful product for villainous people.</p>
+        <p id="drevil">-Dr. Evil</p>
+      </div>
+    </div>
+  </div>
+                
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+  <script src="https://d3js.org/d3-geo.v1.min.js"></script>
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <script src="https://bl.ocks.org/mbostock/raw/7ea1dde508cec6d2d95306f92642bc42/6aac691494f752142a67cc43c51a0fd09896dbd4/versor.js"></script>
+
+  
+  <script src="{{ url_for('static', filename='js/globe2.js') }}"></script>
   
 </body>
 </html>
