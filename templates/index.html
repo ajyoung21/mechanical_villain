@@ -88,12 +88,51 @@
       height: 155px;
       width: 133px
     }
+    #tests {
+    margin-top: 25px;
+    font-size: 21px;
+    text-align: center;
+    color:#4CAF50
 
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+    }
+
+    @keyframes fadein {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+    }
+
+/* Firefox < 16 */
+    @-moz-keyframes fadein {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+    }
+
+/* Safari, Chrome and Opera > 12.1 */
+    @-webkit-keyframes fadein {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+    }
+
+/* Internet Explorer */
+    @-ms-keyframes fadein {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+    }
+/* Opera < 12.1 */
+    @-o-keyframes fadein {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+    }
   </style>
 </head>
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="#"><h2>Villain Island Villas!</h2></a>
+    <a class="navbar-brand" href="index.html"><h2>Villain Island Villas!</h2></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -116,10 +155,11 @@
       </ul>
     </div>
   </nav>
-    
-  <div class="well" id="title">
-    <h1>Welcome to Villain Island Villas 2.0! More Islands, More Evil, More Diabolical Data</h1>
-    <h3>Behold, The 3D Globe of D3 Wonders</h3>
+
+<div class="container" id="tests">
+  <div class="well">
+    <p>Welcome to Villain Island Villas 2.0! More Islands, More Evil, and more Diabolical Data.</p>
+    <p>Behold, The 3D Globe of D3 Wonders.</p>
   </div>
              
   <canvas id="globe"></canvas>
